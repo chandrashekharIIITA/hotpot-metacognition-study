@@ -1,0 +1,35 @@
+id,question,ground_truth,agent_output,extracted_prediction,is_correct,status,error,model
+5a8b57f25542995d1e6f1371,Were Scott Derrickson and Ed Wood of the same nationality?,yes,"Based on the provided context, Scott Derrickson is described as an ""American director, screenwriter and producer,"" and Edward Davis Wood Jr. (Ed Wood) is described as an ""American filmmaker, actor, writer, producer, and director."" Therefore, both individuals share the same nationality.
+
+FINAL ANSWER: Yes",yes,True,success,,gemini-3.5-flash-lite
+5a8c7595554299585d9e36b6,What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?,Chief of Protocol,"Based on the provided context, the 1945 film ""Kiss and Tell"" starred Shirley Temple as Corliss Archer. Later in life, Shirley Temple Black served as the United States ambassador to Ghana and to Czechoslovakia, and also served as Chief of Protocol of the United States.
+
+FINAL ANSWER: United States ambassador to Ghana and to Czechoslovakia and Chief of Protocol of the United States",united states ambassador to ghana and to czechoslovakia and chief of protocol of the united states,True,success,,gemini-3.5-flash-lite
+5a85ea095542994775f606a8,"What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",Animorphs,"Based on the provided context, the ""Animorphs"" series is described as a ""science fantasy series of young adult books written by Katherine Applegate and her husband Michael Grant... told in first person"". Furthermore, the context states that *The Hork-Bajir Chronicles* is ""the second companion book to the 'Animorphs' series"" and tells the story ""of how the Yeerks enslaved the Hork-Bajir,"" involving alien species such as the Hork-Bajir and Andalites.
+
+FINAL ANSWER: Animorphs",animorphs,True,success,,gemini-3.5-flash-lite
+5adbf0a255429947ff17385a,Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?,no,"Based on the provided context, the Laleli Mosque is located in Laleli, Fatih, Istanbul, Turkey, while the Esma Sultan Mansion is located in the Ortaköy neighborhood of Istanbul, Turkey. Therefore, they are not located in the same neighborhood.
+
+FINAL ANSWER: No",no,True,success,,gemini-3.5-flash-lite
+5a8e3ea95542995a26add48d,"The director of the romantic comedy ""Big Stone Gap"" is based in what New York city?","Greenwich Village, New York City","Based on the provided context, Adriana Trigiani is the director (and writer) of the film ""Big Stone Gap"" and is based in Greenwich Village, New York City.
+
+FINAL ANSWER: Greenwich Village",greenwich village,False,success,,gemini-3.5-flash-lite
+5abd94525542992ac4f382d2,2014 S/S is the debut album of a South Korean boy group that was formed by who?,YG Entertainment,"Based on the provided context, the debut album ""2014 S/S"" belongs to the South Korean group WINNER, which was formed by YG Entertainment.
+
+FINAL ANSWER: YG Entertainment",yg entertainment,True,success,,gemini-3.5-flash-lite
+5a85b2d95542997b5ce40028,Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?,Eenasul Fateh,"Based on the provided text, Eenasul Fateh is known by his stage name Aladin and is described as a former international management consultant. Management consulting is the practice of helping organizations improve their performance.
+
+FINAL ANSWER: Eenasul Fateh",eenasul fateh,True,success,,gemini-3.5-flash-lite
+5a87ab905542996e4f3088c1,The arena where the Lewiston Maineiacs played their home games can seat how many people?,"3,677 seated","Based on the provided context, the Lewiston Maineiacs played their home games at the Androscoggin Bank Colisée. The text for the Androscoggin Bank Colisée states that it has a ""4,000 capacity (3,677 seated)"" multi-purpose arena.
+
+FINAL ANSWER: 4,000 capacity (3,677 seated)","4,000 capacity (3,677 seated)",True,success,,gemini-3.5-flash-lite
+5a7bbb64554299042af8f7cc,"Who is older, Annie Morton or Terry Richardson?",Terry Richardson,"Based on the provided context:
+- Annie Morton was born on October 8, 1970.
+- Terry Richardson (Terrence ""Uncle Terry"" Richardson) was born on August 14, 1965.
+
+Since Terry Richardson was born earlier (1965) than Annie Morton (1970), Terry Richardson is older.
+
+FINAL ANSWER: Terry Richardson",terry richardson,True,success,,gemini-3.5-flash-lite
+5a8db19d5542994ba4e3dd00,Are Local H and For Against both from the United States?,yes,"Based on the provided text, Local H is an American rock band originally formed in Zion, Illinois, and For Against is a post-punk/dream pop band from Lincoln, Nebraska (located in the United States). Therefore, both bands are from the United States.
+
+FINAL ANSWER: Yes",yes,True,success,,gemini-3.5-flash-lite
