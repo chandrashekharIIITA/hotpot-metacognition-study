@@ -1,0 +1,112 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "ground_truth": "yes",
+        "agent_output": "Based on the provided context, Scott Derrickson is described as an \"American director, screenwriter and producer\" and Edward Davis Wood Jr. (Ed Wood) is described as an \"American filmmaker, actor, writer, producer, and director.\" Therefore, both were of American nationality.\n\nFINAL ANSWER: Yes",
+        "extracted_prediction": "yes",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "ground_truth": "Chief of Protocol",
+        "agent_output": "Based on the provided context, the 1945 film \"Kiss and Tell\" starred Shirley Temple as Corliss Archer. As an adult, Shirley Temple held the government positions of United States ambassador to Ghana and to Czechoslovakia, and she also served as Chief of Protocol of the United States.\n\nFINAL ANSWER: United States ambassador to Ghana and to Czechoslovakia and Chief of Protocol of the United States",
+        "extracted_prediction": "united states ambassador to ghana and to czechoslovakia and chief of protocol of the united states",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "ground_truth": "Animorphs",
+        "agent_output": "Based on the provided context, the \"Animorphs\" series is described as a \"science fantasy series of young adult books\" that is \"told in first person\". Furthermore, the text for \"The Hork-Bajir Chronicles\" identifies it as a companion book to the \"Animorphs\" series, which tells the story of how \"the Yeerks enslaved the Hork-Bajir\" and features alien species (such as Andalites and Hork-Bajir). \n\nFINAL ANSWER: Animorphs",
+        "extracted_prediction": "animorphs",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "ground_truth": "no",
+        "agent_output": "Based on the provided context, the Laleli Mosque is located in \"Laleli, Fatih, Istanbul, Turkey,\" while the Esma Sultan Mansion is located at the \"Bosphorus in Ortaköy neighborhood of Istanbul, Turkey.\" Therefore, they are not located in the same neighborhood.\n\nFINAL ANSWER: No",
+        "extracted_prediction": "no",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "ground_truth": "Greenwich Village, New York City",
+        "agent_output": "Based on the provided context, Adriana Trigiani, the film director of \"Big Stone Gap,\" is based in Greenwich Village, New York City.\n\nFINAL ANSWER: Greenwich Village",
+        "extracted_prediction": "greenwich village",
+        "is_correct": false,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5abd94525542992ac4f382d2",
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "ground_truth": "YG Entertainment",
+        "agent_output": "Based on the provided context, the debut album \"2014 S/S\" belongs to the South Korean group WINNER, which was formed by YG Entertainment.\n\nFINAL ANSWER: YG Entertainment",
+        "extracted_prediction": "yg entertainment",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a85b2d95542997b5ce40028",
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "ground_truth": "Eenasul Fateh",
+        "agent_output": "Based on the provided context, Eenasul Fateh is known by his stage name Aladin and is described as a former international management consultant. Management consulting is defined as the practice of helping organizations to improve their performance.\n\nFINAL ANSWER: Eenasul Fateh",
+        "extracted_prediction": "eenasul fateh",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a87ab905542996e4f3088c1",
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "ground_truth": "3,677 seated",
+        "agent_output": "Based on the provided text, the Lewiston Maineiacs played their home games at the Androscoggin Bank Colisée. The text states that the Androscoggin Bank Colisée has a \"4,000 capacity (3,677 seated)\".\n\nFINAL ANSWER: 4,000 capacity (3,677 seated)",
+        "extracted_prediction": "4,000 capacity (3,677 seated)",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a7bbb64554299042af8f7cc",
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "ground_truth": "Terry Richardson",
+        "agent_output": "Based on the provided context, Annie Morton was born on October 8, 1970, and Terry Richardson was born on August 14, 1965. Since Terry Richardson was born earlier (1965) than Annie Morton (1970), he is older.\n\nFINAL ANSWER: Terry Richardson",
+        "extracted_prediction": "terry richardson",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    },
+    {
+        "id": "5a8db19d5542994ba4e3dd00",
+        "question": "Are Local H and For Against both from the United States?",
+        "ground_truth": "yes",
+        "agent_output": "Based on the provided text, Local H is described as an \"American rock band\" that was formed in Zion, Illinois. For Against is described as a \"United States post-punk/dream pop band from Lincoln, Nebraska.\" Therefore, both bands are from the United States.\n\nFINAL ANSWER: Yes",
+        "extracted_prediction": "yes",
+        "is_correct": true,
+        "status": "success",
+        "error": null,
+        "model": "gemini-3.5-flash-lite"
+    }
+]
