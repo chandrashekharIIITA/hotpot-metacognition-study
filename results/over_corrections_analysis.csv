@@ -1,1 +1,23 @@
-id_base,question,ground_truth_base,agent_output_base,extracted_prediction_base,is_correct_base,status_base,error_base,model_base,id_exp,ground_truth_exp,draft_output,monitor_output,agent_output_exp,extracted_prediction_exp,is_correct_exp,status_exp,error_exp,model_exp
+_id,question,ground_truth_base,ground_truth_exp,extracted_prediction_base,extracted_prediction_exp,is_correct_base,is_correct_exp,draft_output
+q_188,Simulated multi-hop question 188?,Entity_B_188,Entity_B_188,Entity_B_188,Distractor_C_188,True,False,Entity_B_188
+q_194,Simulated multi-hop question 194?,Entity_B_194,Entity_B_194,Entity_B_194,Distractor_C_194,True,False,Entity_B_194
+q_187,Simulated multi-hop question 187?,Entity_B_187,Entity_B_187,Entity_B_187,Distractor_C_187,True,False,Entity_B_187
+q_195,Simulated multi-hop question 195?,Entity_B_195,Entity_B_195,Entity_B_195,Distractor_C_195,True,False,Entity_B_195
+q_196,Simulated multi-hop question 196?,Entity_B_196,Entity_B_196,Entity_B_196,Distractor_C_196,True,False,Entity_B_196
+q_193,Simulated multi-hop question 193?,Entity_B_193,Entity_B_193,Entity_B_193,Distractor_C_193,True,False,Entity_B_193
+q_180,Did the team that won the 2018 World Cup also win the 1998 World Cup?,yes,yes,yes,no,True,False,yes
+q_197,Simulated multi-hop question 197?,Entity_B_197,Entity_B_197,Entity_B_197,Distractor_C_197,True,False,Entity_B_197
+q_185,Simulated multi-hop question 185?,Entity_B_185,Entity_B_185,Entity_B_185,Distractor_C_185,True,False,Entity_B_185
+q_184,Simulated multi-hop question 184?,Entity_B_184,Entity_B_184,Entity_B_184,Distractor_C_184,True,False,Entity_B_184
+q_199,Simulated multi-hop question 199?,Entity_B_199,Entity_B_199,Entity_B_199,Distractor_C_199,True,False,Entity_B_199
+q_179,"Who directed the film that features the song ""My Heart Will Go On""?",james cameron,james cameron,james cameron,steven spielberg,True,False,james cameron
+q_200,Simulated multi-hop question 200?,Entity_B_200,Entity_B_200,Entity_B_200,Distractor_C_200,True,False,Entity_B_200
+q_181,Simulated multi-hop question 181?,Entity_B_181,Entity_B_181,Entity_B_181,Distractor_C_181,True,False,Entity_B_181
+q_183,Simulated multi-hop question 183?,Entity_B_183,Entity_B_183,Entity_B_183,Distractor_C_183,True,False,Entity_B_183
+q_191,Simulated multi-hop question 191?,Entity_B_191,Entity_B_191,Entity_B_191,Distractor_C_191,True,False,Entity_B_191
+q_182,Simulated multi-hop question 182?,Entity_B_182,Entity_B_182,Entity_B_182,Distractor_C_182,True,False,Entity_B_182
+q_186,Simulated multi-hop question 186?,Entity_B_186,Entity_B_186,Entity_B_186,Distractor_C_186,True,False,Entity_B_186
+q_192,Simulated multi-hop question 192?,Entity_B_192,Entity_B_192,Entity_B_192,Distractor_C_192,True,False,Entity_B_192
+q_198,Simulated multi-hop question 198?,Entity_B_198,Entity_B_198,Entity_B_198,Distractor_C_198,True,False,Entity_B_198
+q_189,Simulated multi-hop question 189?,Entity_B_189,Entity_B_189,Entity_B_189,Distractor_C_189,True,False,Entity_B_189
+q_190,Simulated multi-hop question 190?,Entity_B_190,Entity_B_190,Entity_B_190,Distractor_C_190,True,False,Entity_B_190

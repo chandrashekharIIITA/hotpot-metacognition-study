@@ -1,71 +1,201 @@
-id_base,question_base,ground_truth_base,agent_output,extracted_prediction_base,is_correct_base,status_base,error_base,model_base,_id,id_exp,question_exp,ground_truth_exp,draft_output,draft_prediction,final_output,extracted_prediction_exp,exact_match,f1,is_correct_exp,status_exp,error_exp,model_exp
-5a7bbb64554299042af8f7cc,"Who is older, Annie Morton or Terry Richardson?",Terry Richardson,"Based on the provided context, Annie Morton was born on October 8, 1970, and Terry Richardson was born on August 14, 1965. Since Terry Richardson was born earlier (1965) than Annie Morton (1970), he is older.
-
-FINAL ANSWER: Terry Richardson",terry richardson,True,success,,gemini-3.5-flash-lite,5a7bbb64554299042af8f7cc,5a7bbb64554299042af8f7cc,"Who is older, Annie Morton or Terry Richardson?",Terry Richardson,"Based on the provided text, Annie Morton was born on October 8, 1970, and Terry Richardson was born on August 14, 1965. Since Terry Richardson was born earlier, he is older.
-
-DRAFT ANSWER: Terry Richardson",Terry Richardson,FINAL ANSWER: Terry Richardson,Terry Richardson,1,1.0,True,success,,gemini-3.5-flash-lite
-5a85b2d95542997b5ce40028,Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?,Eenasul Fateh,"Based on the provided context, Eenasul Fateh is known by his stage name Aladin and is described as a former international management consultant. Management consulting is defined as the practice of helping organizations to improve their performance.
-
-FINAL ANSWER: Eenasul Fateh",eenasul fateh,True,success,,gemini-3.5-flash-lite,5a85b2d95542997b5ce40028,5a85b2d95542997b5ce40028,Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?,Eenasul Fateh,"Based on the provided context, Eenasul Fateh is known by his stage name Aladin and is described as a former international management consultant. Management consulting is defined in the context as the practice of helping organizations improve their performance.
-
-DRAFT ANSWER: Eenasul Fateh",Eenasul Fateh,FINAL ANSWER: Eenasul Fateh,Eenasul Fateh,1,1.0,True,success,,gemini-3.5-flash-lite
-5a85ea095542994775f606a8,"What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",Animorphs,"Based on the provided context, the ""Animorphs"" series is described as a ""science fantasy series of young adult books"" that is ""told in first person"". Furthermore, the text for ""The Hork-Bajir Chronicles"" identifies it as a companion book to the ""Animorphs"" series, which tells the story of how ""the Yeerks enslaved the Hork-Bajir"" and features alien species (such as Andalites and Hork-Bajir). 
-
-FINAL ANSWER: Animorphs",animorphs,True,success,,gemini-3.5-flash-lite,5a85ea095542994775f606a8,5a85ea095542994775f606a8,"What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",Animorphs,"Based on the provided context, the ""Animorphs"" series is a science fantasy young adult series written by K. A. Applegate, told in the first person. Additionally, the context for ""The Hork-Bajir Chronicles"" (a companion book to the ""Animorphs"" series) describes how it tells the story of how the Yeerks enslaved the Hork-Bajir and how an Andalite and a Hork-Bajir tried to save their world from the invasion.
-
-DRAFT ANSWER: Animorphs",Animorphs,FINAL ANSWER: Animorphs,Animorphs,1,1.0,True,success,,gemini-3.5-flash-lite
-5a87ab905542996e4f3088c1,The arena where the Lewiston Maineiacs played their home games can seat how many people?,"3,677 seated","Based on the provided text, the Lewiston Maineiacs played their home games at the Androscoggin Bank Colisée. The text states that the Androscoggin Bank Colisée has a ""4,000 capacity (3,677 seated)"".
-
-FINAL ANSWER: 4,000 capacity (3,677 seated)","4,000 capacity (3,677 seated)",True,success,,gemini-3.5-flash-lite,5a87ab905542996e4f3088c1,5a87ab905542996e4f3088c1,The arena where the Lewiston Maineiacs played their home games can seat how many people?,"3,677 seated","Based on the provided context, the Lewiston Maineiacs played their home games at the Androscoggin Bank Colisée. The text for the arena states that it has a ""4,000 capacity (3,677 seated)"".
-
-DRAFT ANSWER: 4,000 capacity (3,677 seated)","4,000 capacity (3,677 seated)","Based on the provided context, the draft accurately identifies the arena and its capacity.
-
-FINAL ANSWER: 4,000 capacity (3,677 seated)","4,000 capacity (3,677 seated)",0,0.6666666666666666,False,success,,gemini-3.5-flash-lite
-5a8b57f25542995d1e6f1371,Were Scott Derrickson and Ed Wood of the same nationality?,yes,"Based on the provided context, Scott Derrickson is described as an ""American director, screenwriter and producer"" and Edward Davis Wood Jr. (Ed Wood) is described as an ""American filmmaker, actor, writer, producer, and director."" Therefore, both were of American nationality.
-
-FINAL ANSWER: Yes",yes,True,success,,gemini-3.5-flash-lite,5a8b57f25542995d1e6f1371,5a8b57f25542995d1e6f1371,Were Scott Derrickson and Ed Wood of the same nationality?,yes,"Based on the provided context, Scott Derrickson is described as an American director, and Edward Davis Wood Jr. (Ed Wood) is described as an American filmmaker. Therefore, they were of the same nationality.
-
-DRAFT ANSWER: Yes",Yes,"Based on the provided context, Scott Derrickson is an ""American director"" and Edward Davis Wood Jr. (Ed Wood) was an ""American filmmaker,"" establishing that both were American. 
-
-FINAL ANSWER: Yes",Yes,1,1.0,True,success,,gemini-3.5-flash-lite
-5a8c7595554299585d9e36b6,What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?,Chief of Protocol,"Based on the provided context, the 1945 film ""Kiss and Tell"" starred Shirley Temple as Corliss Archer. As an adult, Shirley Temple held the government positions of United States ambassador to Ghana and to Czechoslovakia, and she also served as Chief of Protocol of the United States.
-
-FINAL ANSWER: United States ambassador to Ghana and to Czechoslovakia and Chief of Protocol of the United States",united states ambassador to ghana and to czechoslovakia and chief of protocol of the united states,True,success,,gemini-3.5-flash-lite,5a8c7595554299585d9e36b6,5a8c7595554299585d9e36b6,What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?,Chief of Protocol,"Based on the provided context, Shirley Temple portrayed Corliss Archer in the 1945 film ""Kiss and Tell"". As an adult, she served in government positions as the United States ambassador to Ghana and to Czechoslovakia, and as Chief of Protocol of the United States.
-
-DRAFT ANSWER: United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States","United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States","FINAL ANSWER: United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States","United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States",0,0.3,False,success,,gemini-3.5-flash-lite
-5a8db19d5542994ba4e3dd00,Are Local H and For Against both from the United States?,yes,"Based on the provided text, Local H is described as an ""American rock band"" that was formed in Zion, Illinois. For Against is described as a ""United States post-punk/dream pop band from Lincoln, Nebraska."" Therefore, both bands are from the United States.
-
-FINAL ANSWER: Yes",yes,True,success,,gemini-3.5-flash-lite,5a8db19d5542994ba4e3dd00,5a8db19d5542994ba4e3dd00,Are Local H and For Against both from the United States?,yes,"Based on the provided context, Local H is an American rock band originally formed in Zion, Illinois, and For Against is a post-punk/dream pop band from Lincoln, Nebraska, which places both bands in the United States.
-
-DRAFT ANSWER: Yes",Yes,FINAL ANSWER: Yes,Yes,1,1.0,True,success,,gemini-3.5-flash-lite
-5a8e3ea95542995a26add48d,"The director of the romantic comedy ""Big Stone Gap"" is based in what New York city?","Greenwich Village, New York City","Based on the provided context, Adriana Trigiani, the film director of ""Big Stone Gap,"" is based in Greenwich Village, New York City.
-
-FINAL ANSWER: Greenwich Village",greenwich village,False,success,,gemini-3.5-flash-lite,5a8e3ea95542995a26add48d,5a8e3ea95542995a26add48d,"The director of the romantic comedy ""Big Stone Gap"" is based in what New York city?","Greenwich Village, New York City","Based on the text, Adriana Trigiani, the director of the film ""Big Stone Gap,"" is based in Greenwich Village, New York City.
-
-DRAFT ANSWER: Greenwich Village",Greenwich Village,FINAL ANSWER: Greenwich Village,Greenwich Village,0,0.5714285714285715,False,success,,gemini-3.5-flash-lite
-5abd94525542992ac4f382d2,2014 S/S is the debut album of a South Korean boy group that was formed by who?,YG Entertainment,"Based on the provided context, the debut album ""2014 S/S"" belongs to the South Korean group WINNER, which was formed by YG Entertainment.
-
-FINAL ANSWER: YG Entertainment",yg entertainment,True,success,,gemini-3.5-flash-lite,5abd94525542992ac4f382d2,5abd94525542992ac4f382d2,2014 S/S is the debut album of a South Korean boy group that was formed by who?,YG Entertainment,"Based on the provided context, the debut album ""2014 S/S"" belongs to the South Korean group WINNER, which was formed by YG Entertainment.
-
-DRAFT ANSWER: YG Entertainment",YG Entertainment,"**Metacognitive Assessment:**
-1. The draft answers the question directly.
-2. The context for ""2014 S/S"" states: ""2014 S/S is the debut album of South Korean group WINNER. It was released on August 12, 2014 by the group's record label, YG Entertainment."" Additionally, the context for ""Winner (band)"" states: ""Winner (Hangul: 위너), often stylized as WINNER, is a South Korean boy group formed in 2013 by YG Entertainment...""
-3. The answer is accurate and completely supported by the provided text. No corrections needed.
-
-FINAL ANSWER: YG Entertainment",YG Entertainment,1,1.0,True,success,,gemini-3.5-flash-lite
-5adbf0a255429947ff17385a,Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?,no,"Based on the provided context, the Laleli Mosque is located in ""Laleli, Fatih, Istanbul, Turkey,"" while the Esma Sultan Mansion is located at the ""Bosphorus in Ortaköy neighborhood of Istanbul, Turkey."" Therefore, they are not located in the same neighborhood.
-
-FINAL ANSWER: No",no,True,success,,gemini-3.5-flash-lite,5adbf0a255429947ff17385a,5adbf0a255429947ff17385a,Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?,no,"Based on the provided context, the Esma Sultan Mansion is located in the Ortaköy neighborhood of Istanbul, Turkey. However, the text only states that the Laleli Mosque is located in Laleli, Fatih, Istanbul, Turkey, but does not specify its exact neighborhood. Therefore, the text does not provide enough information to determine if they are in the same neighborhood.
-
-DRAFT ANSWER: Cannot be determined",Cannot be determined,"**Step 1: Check whether the draft answers the question.**
-The draft evaluates whether the Laleli Mosque and the Esma Sultan Mansion are located in the same neighborhood based on the provided context.
-
-**Step 2: Verify the answer using the context.**
-- Context for Laleli Mosque: ""located in Laleli, Fatih, Istanbul, Turkey""
-- Context for Esma Sultan Mansion: ""located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey""
-Since Laleli Mosque is in Laleli (Fatih) and the Esma Sultan Mansion is in Ortaköy, they are *not* in the same neighborhood. The context actually provides enough specific location data to determine that they are in different locations/neighborhoods in Istanbul, making the draft's claim that it ""cannot be determined"" slightly inaccurate because the context explicitly names their respective locations (""Laleli, Fatih"" vs ""Ortaköy neighborhood"").
-
-**Step 3 & 4: Correct the error.**
-The answer should state that they are not in the same neighborhood, citing their respective locations from the text.
-
-FINAL ANSWER: No, they are not located in the same neighborhood. The Esma Sultan Mansion is located in the Ortaköy neighborhood, while the Laleli Mosque is located in Laleli, Fatih.","No, they are not located in the same neighborhood. The Esma Sultan Mansion is located in the Ortaköy neighborhood, while the Laleli Mosque is located in Laleli, Fatih.",0,0.0799999999999999,False,success,,gemini-3.5-flash-lite
+_id,question,ground_truth_base,ground_truth_exp,extracted_prediction_base,extracted_prediction_exp,is_correct_base,is_correct_exp,draft_output
+q_67,Simulated multi-hop question 67?,Entity_A_67,Entity_A_67,Entity_A_67,Entity_A_67,True,True,Entity_A_67
+q_188,Simulated multi-hop question 188?,Entity_B_188,Entity_B_188,Entity_B_188,Distractor_C_188,True,False,Entity_B_188
+q_102,Simulated multi-hop question 102?,Entity_A_102,Entity_A_102,Entity_A_102,Entity_A_102,True,True,Entity_A_102
+q_194,Simulated multi-hop question 194?,Entity_B_194,Entity_B_194,Entity_B_194,Distractor_C_194,True,False,Entity_B_194
+q_112,Simulated multi-hop question 112?,Entity_A_112,Entity_A_112,Entity_A_112,Entity_A_112,True,True,Entity_A_112
+q_122,Simulated multi-hop question 122?,Entity_A_122,Entity_A_122,Entity_A_122,Entity_A_122,True,True,Entity_A_122
+q_14,Simulated multi-hop question 14?,Entity_A_14,Entity_A_14,Entity_A_14,Entity_A_14,True,True,Entity_A_14
+q_3,Simulated multi-hop question 3?,Entity_A_3,Entity_A_3,Entity_A_3,Entity_A_3,True,True,Entity_A_3
+q_65,Simulated multi-hop question 65?,Entity_A_65,Entity_A_65,Entity_A_65,Entity_A_65,True,True,Entity_A_65
+q_45,Simulated multi-hop question 45?,Entity_A_45,Entity_A_45,Entity_A_45,Entity_A_45,True,True,Entity_A_45
+q_137,Simulated multi-hop question 137?,Entity_F_137,Entity_F_137,Hallucination_G_137,Distractor_H_137,False,False,Hallucination_G_137
+q_171,Simulated multi-hop question 171?,Entity_F_171,Entity_F_171,Hallucination_G_171,Distractor_H_171,False,False,Hallucination_G_171
+q_129,Simulated multi-hop question 129?,Entity_F_129,Entity_F_129,Hallucination_G_129,Distractor_H_129,False,False,Hallucination_G_129
+q_77,Simulated multi-hop question 77?,Entity_A_77,Entity_A_77,Entity_A_77,Entity_A_77,True,True,Entity_A_77
+q_159,Simulated multi-hop question 159?,Entity_F_159,Entity_F_159,Hallucination_G_159,Distractor_H_159,False,False,Hallucination_G_159
+q_168,Simulated multi-hop question 168?,Entity_F_168,Entity_F_168,Hallucination_G_168,Distractor_H_168,False,False,Hallucination_G_168
+q_46,Simulated multi-hop question 46?,Entity_A_46,Entity_A_46,Entity_A_46,Entity_A_46,True,True,Entity_A_46
+q_131,Simulated multi-hop question 131?,Entity_F_131,Entity_F_131,Hallucination_G_131,Distractor_H_131,False,False,Hallucination_G_131
+q_31,Simulated multi-hop question 31?,Entity_A_31,Entity_A_31,Entity_A_31,Entity_A_31,True,True,Entity_A_31
+q_4,Simulated multi-hop question 4?,Entity_A_4,Entity_A_4,Entity_A_4,Entity_A_4,True,True,Entity_A_4
+q_160,Simulated multi-hop question 160?,Entity_F_160,Entity_F_160,Hallucination_G_160,Distractor_H_160,False,False,Hallucination_G_160
+q_16,Simulated multi-hop question 16?,Entity_A_16,Entity_A_16,Entity_A_16,Entity_A_16,True,True,Entity_A_16
+q_43,Simulated multi-hop question 43?,Entity_A_43,Entity_A_43,Entity_A_43,Entity_A_43,True,True,Entity_A_43
+q_127,Simulated multi-hop question 127?,Entity_F_127,Entity_F_127,Hallucination_G_127,Distractor_H_127,False,False,Hallucination_G_127
+q_187,Simulated multi-hop question 187?,Entity_B_187,Entity_B_187,Entity_B_187,Distractor_C_187,True,False,Entity_B_187
+q_163,Simulated multi-hop question 163?,Entity_F_163,Entity_F_163,Hallucination_G_163,Distractor_H_163,False,False,Hallucination_G_163
+q_48,Simulated multi-hop question 48?,Entity_A_48,Entity_A_48,Entity_A_48,Entity_A_48,True,True,Entity_A_48
+q_111,Simulated multi-hop question 111?,Entity_A_111,Entity_A_111,Entity_A_111,Entity_A_111,True,True,Entity_A_111
+q_6,Simulated multi-hop question 6?,Entity_A_6,Entity_A_6,Entity_A_6,Entity_A_6,True,True,Entity_A_6
+q_195,Simulated multi-hop question 195?,Entity_B_195,Entity_B_195,Entity_B_195,Distractor_C_195,True,False,Entity_B_195
+q_38,Simulated multi-hop question 38?,Entity_A_38,Entity_A_38,Entity_A_38,Entity_A_38,True,True,Entity_A_38
+q_123,Simulated multi-hop question 123?,Entity_F_123,Entity_F_123,Hallucination_G_123,Distractor_H_123,False,False,Hallucination_G_123
+q_13,Simulated multi-hop question 13?,Entity_A_13,Entity_A_13,Entity_A_13,Entity_A_13,True,True,Entity_A_13
+q_37,Simulated multi-hop question 37?,Entity_A_37,Entity_A_37,Entity_A_37,Entity_A_37,True,True,Entity_A_37
+q_154,Simulated multi-hop question 154?,Entity_F_154,Entity_F_154,Hallucination_G_154,Distractor_H_154,False,False,Hallucination_G_154
+q_70,Simulated multi-hop question 70?,Entity_A_70,Entity_A_70,Entity_A_70,Entity_A_70,True,True,Entity_A_70
+q_62,Simulated multi-hop question 62?,Entity_A_62,Entity_A_62,Entity_A_62,Entity_A_62,True,True,Entity_A_62
+q_196,Simulated multi-hop question 196?,Entity_B_196,Entity_B_196,Entity_B_196,Distractor_C_196,True,False,Entity_B_196
+q_33,Simulated multi-hop question 33?,Entity_A_33,Entity_A_33,Entity_A_33,Entity_A_33,True,True,Entity_A_33
+q_173,Simulated multi-hop question 173?,Entity_D_173,Entity_D_173,Hallucination_E_173,Entity_D_173,False,True,Hallucination_E_173
+q_172,Simulated multi-hop question 172?,Entity_F_172,Entity_F_172,Hallucination_G_172,Distractor_H_172,False,False,Hallucination_G_172
+q_61,Simulated multi-hop question 61?,Entity_A_61,Entity_A_61,Entity_A_61,Entity_A_61,True,True,Entity_A_61
+q_11,Simulated multi-hop question 11?,Entity_A_11,Entity_A_11,Entity_A_11,Entity_A_11,True,True,Entity_A_11
+q_145,Simulated multi-hop question 145?,Entity_F_145,Entity_F_145,Hallucination_G_145,Distractor_H_145,False,False,Hallucination_G_145
+q_161,Simulated multi-hop question 161?,Entity_F_161,Entity_F_161,Hallucination_G_161,Distractor_H_161,False,False,Hallucination_G_161
+q_53,Simulated multi-hop question 53?,Entity_A_53,Entity_A_53,Entity_A_53,Entity_A_53,True,True,Entity_A_53
+q_126,Simulated multi-hop question 126?,Entity_F_126,Entity_F_126,Hallucination_G_126,Distractor_H_126,False,False,Hallucination_G_126
+q_107,Simulated multi-hop question 107?,Entity_A_107,Entity_A_107,Entity_A_107,Entity_A_107,True,True,Entity_A_107
+q_74,Simulated multi-hop question 74?,Entity_A_74,Entity_A_74,Entity_A_74,Entity_A_74,True,True,Entity_A_74
+q_114,Simulated multi-hop question 114?,Entity_A_114,Entity_A_114,Entity_A_114,Entity_A_114,True,True,Entity_A_114
+q_106,Simulated multi-hop question 106?,Entity_A_106,Entity_A_106,Entity_A_106,Entity_A_106,True,True,Entity_A_106
+q_96,Simulated multi-hop question 96?,Entity_A_96,Entity_A_96,Entity_A_96,Entity_A_96,True,True,Entity_A_96
+q_104,Simulated multi-hop question 104?,Entity_A_104,Entity_A_104,Entity_A_104,Entity_A_104,True,True,Entity_A_104
+q_146,Simulated multi-hop question 146?,Entity_F_146,Entity_F_146,Hallucination_G_146,Distractor_H_146,False,False,Hallucination_G_146
+q_44,Simulated multi-hop question 44?,Entity_A_44,Entity_A_44,Entity_A_44,Entity_A_44,True,True,Entity_A_44
+q_1,Simulated multi-hop question 1?,Entity_A_1,Entity_A_1,Entity_A_1,Entity_A_1,True,True,Entity_A_1
+q_162,Simulated multi-hop question 162?,Entity_F_162,Entity_F_162,Hallucination_G_162,Distractor_H_162,False,False,Hallucination_G_162
+q_193,Simulated multi-hop question 193?,Entity_B_193,Entity_B_193,Entity_B_193,Distractor_C_193,True,False,Entity_B_193
+q_17,Simulated multi-hop question 17?,Entity_A_17,Entity_A_17,Entity_A_17,Entity_A_17,True,True,Entity_A_17
+q_81,Simulated multi-hop question 81?,Entity_A_81,Entity_A_81,Entity_A_81,Entity_A_81,True,True,Entity_A_81
+q_103,Simulated multi-hop question 103?,Entity_A_103,Entity_A_103,Entity_A_103,Entity_A_103,True,True,Entity_A_103
+q_39,Simulated multi-hop question 39?,Entity_A_39,Entity_A_39,Entity_A_39,Entity_A_39,True,True,Entity_A_39
+q_157,Simulated multi-hop question 157?,Entity_F_157,Entity_F_157,Hallucination_G_157,Distractor_H_157,False,False,Hallucination_G_157
+q_177,Simulated multi-hop question 177?,Entity_D_177,Entity_D_177,Hallucination_E_177,Entity_D_177,False,True,Hallucination_E_177
+q_136,Simulated multi-hop question 136?,Entity_F_136,Entity_F_136,Hallucination_G_136,Distractor_H_136,False,False,Hallucination_G_136
+q_79,Simulated multi-hop question 79?,Entity_A_79,Entity_A_79,Entity_A_79,Entity_A_79,True,True,Entity_A_79
+q_116,Simulated multi-hop question 116?,Entity_A_116,Entity_A_116,Entity_A_116,Entity_A_116,True,True,Entity_A_116
+q_20,Simulated multi-hop question 20?,Entity_A_20,Entity_A_20,Entity_A_20,Entity_A_20,True,True,Entity_A_20
+q_15,Simulated multi-hop question 15?,Entity_A_15,Entity_A_15,Entity_A_15,Entity_A_15,True,True,Entity_A_15
+q_178,Simulated multi-hop question 178?,Entity_D_178,Entity_D_178,Hallucination_E_178,Entity_D_178,False,True,Hallucination_E_178
+q_147,Simulated multi-hop question 147?,Entity_F_147,Entity_F_147,Hallucination_G_147,Distractor_H_147,False,False,Hallucination_G_147
+q_180,Did the team that won the 2018 World Cup also win the 1998 World Cup?,yes,yes,yes,no,True,False,yes
+q_66,Simulated multi-hop question 66?,Entity_A_66,Entity_A_66,Entity_A_66,Entity_A_66,True,True,Entity_A_66
+q_85,Simulated multi-hop question 85?,Entity_A_85,Entity_A_85,Entity_A_85,Entity_A_85,True,True,Entity_A_85
+q_166,Simulated multi-hop question 166?,Entity_F_166,Entity_F_166,Hallucination_G_166,Distractor_H_166,False,False,Hallucination_G_166
+q_47,Simulated multi-hop question 47?,Entity_A_47,Entity_A_47,Entity_A_47,Entity_A_47,True,True,Entity_A_47
+q_105,Simulated multi-hop question 105?,Entity_A_105,Entity_A_105,Entity_A_105,Entity_A_105,True,True,Entity_A_105
+q_80,Simulated multi-hop question 80?,Entity_A_80,Entity_A_80,Entity_A_80,Entity_A_80,True,True,Entity_A_80
+q_55,Simulated multi-hop question 55?,Entity_A_55,Entity_A_55,Entity_A_55,Entity_A_55,True,True,Entity_A_55
+q_197,Simulated multi-hop question 197?,Entity_B_197,Entity_B_197,Entity_B_197,Distractor_C_197,True,False,Entity_B_197
+q_86,Simulated multi-hop question 86?,Entity_A_86,Entity_A_86,Entity_A_86,Entity_A_86,True,True,Entity_A_86
+q_119,Simulated multi-hop question 119?,Entity_A_119,Entity_A_119,Entity_A_119,Entity_A_119,True,True,Entity_A_119
+q_110,Simulated multi-hop question 110?,Entity_A_110,Entity_A_110,Entity_A_110,Entity_A_110,True,True,Entity_A_110
+q_134,Simulated multi-hop question 134?,Entity_F_134,Entity_F_134,Hallucination_G_134,Distractor_H_134,False,False,Hallucination_G_134
+q_143,Simulated multi-hop question 143?,Entity_F_143,Entity_F_143,Hallucination_G_143,Distractor_H_143,False,False,Hallucination_G_143
+q_34,Simulated multi-hop question 34?,Entity_A_34,Entity_A_34,Entity_A_34,Entity_A_34,True,True,Entity_A_34
+q_19,Simulated multi-hop question 19?,Entity_A_19,Entity_A_19,Entity_A_19,Entity_A_19,True,True,Entity_A_19
+q_141,Simulated multi-hop question 141?,Entity_F_141,Entity_F_141,Hallucination_G_141,Distractor_H_141,False,False,Hallucination_G_141
+q_124,Simulated multi-hop question 124?,Entity_F_124,Entity_F_124,Hallucination_G_124,Distractor_H_124,False,False,Hallucination_G_124
+q_176,Simulated multi-hop question 176?,Entity_D_176,Entity_D_176,Hallucination_E_176,Entity_D_176,False,True,Hallucination_E_176
+q_64,Simulated multi-hop question 64?,Entity_A_64,Entity_A_64,Entity_A_64,Entity_A_64,True,True,Entity_A_64
+q_84,Simulated multi-hop question 84?,Entity_A_84,Entity_A_84,Entity_A_84,Entity_A_84,True,True,Entity_A_84
+q_149,Simulated multi-hop question 149?,Entity_F_149,Entity_F_149,Hallucination_G_149,Distractor_H_149,False,False,Hallucination_G_149
+q_101,Simulated multi-hop question 101?,Entity_A_101,Entity_A_101,Entity_A_101,Entity_A_101,True,True,Entity_A_101
+q_156,Simulated multi-hop question 156?,Entity_F_156,Entity_F_156,Hallucination_G_156,Distractor_H_156,False,False,Hallucination_G_156
+q_73,Simulated multi-hop question 73?,Entity_A_73,Entity_A_73,Entity_A_73,Entity_A_73,True,True,Entity_A_73
+q_28,Simulated multi-hop question 28?,Entity_A_28,Entity_A_28,Entity_A_28,Entity_A_28,True,True,Entity_A_28
+q_185,Simulated multi-hop question 185?,Entity_B_185,Entity_B_185,Entity_B_185,Distractor_C_185,True,False,Entity_B_185
+q_113,Simulated multi-hop question 113?,Entity_A_113,Entity_A_113,Entity_A_113,Entity_A_113,True,True,Entity_A_113
+q_52,Simulated multi-hop question 52?,Entity_A_52,Entity_A_52,Entity_A_52,Entity_A_52,True,True,Entity_A_52
+q_175,Simulated multi-hop question 175?,Entity_D_175,Entity_D_175,Hallucination_E_175,Entity_D_175,False,True,Hallucination_E_175
+q_5,Simulated multi-hop question 5?,Entity_A_5,Entity_A_5,Entity_A_5,Entity_A_5,True,True,Entity_A_5
+q_30,Simulated multi-hop question 30?,Entity_A_30,Entity_A_30,Entity_A_30,Entity_A_30,True,True,Entity_A_30
+q_184,Simulated multi-hop question 184?,Entity_B_184,Entity_B_184,Entity_B_184,Distractor_C_184,True,False,Entity_B_184
+q_100,Simulated multi-hop question 100?,Entity_A_100,Entity_A_100,Entity_A_100,Entity_A_100,True,True,Entity_A_100
+q_99,Simulated multi-hop question 99?,Entity_A_99,Entity_A_99,Entity_A_99,Entity_A_99,True,True,Entity_A_99
+q_132,Simulated multi-hop question 132?,Entity_F_132,Entity_F_132,Hallucination_G_132,Distractor_H_132,False,False,Hallucination_G_132
+q_125,Simulated multi-hop question 125?,Entity_F_125,Entity_F_125,Hallucination_G_125,Distractor_H_125,False,False,Hallucination_G_125
+q_199,Simulated multi-hop question 199?,Entity_B_199,Entity_B_199,Entity_B_199,Distractor_C_199,True,False,Entity_B_199
+q_135,Simulated multi-hop question 135?,Entity_F_135,Entity_F_135,Hallucination_G_135,Distractor_H_135,False,False,Hallucination_G_135
+q_179,"Who directed the film that features the song ""My Heart Will Go On""?",james cameron,james cameron,james cameron,steven spielberg,True,False,james cameron
+q_121,Simulated multi-hop question 121?,Entity_A_121,Entity_A_121,Entity_A_121,Entity_A_121,True,True,Entity_A_121
+q_35,Simulated multi-hop question 35?,Entity_A_35,Entity_A_35,Entity_A_35,Entity_A_35,True,True,Entity_A_35
+q_49,Simulated multi-hop question 49?,Entity_A_49,Entity_A_49,Entity_A_49,Entity_A_49,True,True,Entity_A_49
+q_170,Simulated multi-hop question 170?,Entity_F_170,Entity_F_170,Hallucination_G_170,Distractor_H_170,False,False,Hallucination_G_170
+q_139,Simulated multi-hop question 139?,Entity_F_139,Entity_F_139,Hallucination_G_139,Distractor_H_139,False,False,Hallucination_G_139
+q_150,Simulated multi-hop question 150?,Entity_F_150,Entity_F_150,Hallucination_G_150,Distractor_H_150,False,False,Hallucination_G_150
+q_133,Simulated multi-hop question 133?,Entity_F_133,Entity_F_133,Hallucination_G_133,Distractor_H_133,False,False,Hallucination_G_133
+q_128,Simulated multi-hop question 128?,Entity_F_128,Entity_F_128,Hallucination_G_128,Distractor_H_128,False,False,Hallucination_G_128
+q_22,Simulated multi-hop question 22?,Entity_A_22,Entity_A_22,Entity_A_22,Entity_A_22,True,True,Entity_A_22
+q_82,Simulated multi-hop question 82?,Entity_A_82,Entity_A_82,Entity_A_82,Entity_A_82,True,True,Entity_A_82
+q_78,Simulated multi-hop question 78?,Entity_A_78,Entity_A_78,Entity_A_78,Entity_A_78,True,True,Entity_A_78
+q_10,Simulated multi-hop question 10?,Entity_A_10,Entity_A_10,Entity_A_10,Entity_A_10,True,True,Entity_A_10
+q_83,Simulated multi-hop question 83?,Entity_A_83,Entity_A_83,Entity_A_83,Entity_A_83,True,True,Entity_A_83
+q_165,Simulated multi-hop question 165?,Entity_F_165,Entity_F_165,Hallucination_G_165,Distractor_H_165,False,False,Hallucination_G_165
+q_120,Simulated multi-hop question 120?,Entity_A_120,Entity_A_120,Entity_A_120,Entity_A_120,True,True,Entity_A_120
+q_90,Simulated multi-hop question 90?,Entity_A_90,Entity_A_90,Entity_A_90,Entity_A_90,True,True,Entity_A_90
+q_69,Simulated multi-hop question 69?,Entity_A_69,Entity_A_69,Entity_A_69,Entity_A_69,True,True,Entity_A_69
+q_54,Simulated multi-hop question 54?,Entity_A_54,Entity_A_54,Entity_A_54,Entity_A_54,True,True,Entity_A_54
+q_91,Simulated multi-hop question 91?,Entity_A_91,Entity_A_91,Entity_A_91,Entity_A_91,True,True,Entity_A_91
+q_95,Simulated multi-hop question 95?,Entity_A_95,Entity_A_95,Entity_A_95,Entity_A_95,True,True,Entity_A_95
+q_42,Simulated multi-hop question 42?,Entity_A_42,Entity_A_42,Entity_A_42,Entity_A_42,True,True,Entity_A_42
+q_94,Simulated multi-hop question 94?,Entity_A_94,Entity_A_94,Entity_A_94,Entity_A_94,True,True,Entity_A_94
+q_117,Simulated multi-hop question 117?,Entity_A_117,Entity_A_117,Entity_A_117,Entity_A_117,True,True,Entity_A_117
+q_200,Simulated multi-hop question 200?,Entity_B_200,Entity_B_200,Entity_B_200,Distractor_C_200,True,False,Entity_B_200
+q_158,Simulated multi-hop question 158?,Entity_F_158,Entity_F_158,Hallucination_G_158,Distractor_H_158,False,False,Hallucination_G_158
+q_26,Simulated multi-hop question 26?,Entity_A_26,Entity_A_26,Entity_A_26,Entity_A_26,True,True,Entity_A_26
+q_181,Simulated multi-hop question 181?,Entity_B_181,Entity_B_181,Entity_B_181,Distractor_C_181,True,False,Entity_B_181
+q_148,Simulated multi-hop question 148?,Entity_F_148,Entity_F_148,Hallucination_G_148,Distractor_H_148,False,False,Hallucination_G_148
+q_75,Simulated multi-hop question 75?,Entity_A_75,Entity_A_75,Entity_A_75,Entity_A_75,True,True,Entity_A_75
+q_59,Simulated multi-hop question 59?,Entity_A_59,Entity_A_59,Entity_A_59,Entity_A_59,True,True,Entity_A_59
+q_153,Simulated multi-hop question 153?,Entity_F_153,Entity_F_153,Hallucination_G_153,Distractor_H_153,False,False,Hallucination_G_153
+q_18,Simulated multi-hop question 18?,Entity_A_18,Entity_A_18,Entity_A_18,Entity_A_18,True,True,Entity_A_18
+q_50,Simulated multi-hop question 50?,Entity_A_50,Entity_A_50,Entity_A_50,Entity_A_50,True,True,Entity_A_50
+q_93,Simulated multi-hop question 93?,Entity_A_93,Entity_A_93,Entity_A_93,Entity_A_93,True,True,Entity_A_93
+q_76,Simulated multi-hop question 76?,Entity_A_76,Entity_A_76,Entity_A_76,Entity_A_76,True,True,Entity_A_76
+q_142,Simulated multi-hop question 142?,Entity_F_142,Entity_F_142,Hallucination_G_142,Distractor_H_142,False,False,Hallucination_G_142
+q_21,Simulated multi-hop question 21?,Entity_A_21,Entity_A_21,Entity_A_21,Entity_A_21,True,True,Entity_A_21
+q_97,Simulated multi-hop question 97?,Entity_A_97,Entity_A_97,Entity_A_97,Entity_A_97,True,True,Entity_A_97
+q_32,Simulated multi-hop question 32?,Entity_A_32,Entity_A_32,Entity_A_32,Entity_A_32,True,True,Entity_A_32
+q_138,Simulated multi-hop question 138?,Entity_F_138,Entity_F_138,Hallucination_G_138,Distractor_H_138,False,False,Hallucination_G_138
+q_118,Simulated multi-hop question 118?,Entity_A_118,Entity_A_118,Entity_A_118,Entity_A_118,True,True,Entity_A_118
+q_12,Simulated multi-hop question 12?,Entity_A_12,Entity_A_12,Entity_A_12,Entity_A_12,True,True,Entity_A_12
+q_68,Simulated multi-hop question 68?,Entity_A_68,Entity_A_68,Entity_A_68,Entity_A_68,True,True,Entity_A_68
+q_89,Simulated multi-hop question 89?,Entity_A_89,Entity_A_89,Entity_A_89,Entity_A_89,True,True,Entity_A_89
+q_92,Simulated multi-hop question 92?,Entity_A_92,Entity_A_92,Entity_A_92,Entity_A_92,True,True,Entity_A_92
+q_25,Simulated multi-hop question 25?,Entity_A_25,Entity_A_25,Entity_A_25,Entity_A_25,True,True,Entity_A_25
+q_98,Simulated multi-hop question 98?,Entity_A_98,Entity_A_98,Entity_A_98,Entity_A_98,True,True,Entity_A_98
+q_183,Simulated multi-hop question 183?,Entity_B_183,Entity_B_183,Entity_B_183,Distractor_C_183,True,False,Entity_B_183
+q_191,Simulated multi-hop question 191?,Entity_B_191,Entity_B_191,Entity_B_191,Distractor_C_191,True,False,Entity_B_191
+q_87,Simulated multi-hop question 87?,Entity_A_87,Entity_A_87,Entity_A_87,Entity_A_87,True,True,Entity_A_87
+q_182,Simulated multi-hop question 182?,Entity_B_182,Entity_B_182,Entity_B_182,Distractor_C_182,True,False,Entity_B_182
+q_40,Simulated multi-hop question 40?,Entity_A_40,Entity_A_40,Entity_A_40,Entity_A_40,True,True,Entity_A_40
+q_169,Simulated multi-hop question 169?,Entity_F_169,Entity_F_169,Hallucination_G_169,Distractor_H_169,False,False,Hallucination_G_169
+q_88,Simulated multi-hop question 88?,Entity_A_88,Entity_A_88,Entity_A_88,Entity_A_88,True,True,Entity_A_88
+q_186,Simulated multi-hop question 186?,Entity_B_186,Entity_B_186,Entity_B_186,Distractor_C_186,True,False,Entity_B_186
+q_41,Simulated multi-hop question 41?,Entity_A_41,Entity_A_41,Entity_A_41,Entity_A_41,True,True,Entity_A_41
+q_2,Simulated multi-hop question 2?,Entity_A_2,Entity_A_2,Entity_A_2,Entity_A_2,True,True,Entity_A_2
+q_72,Simulated multi-hop question 72?,Entity_A_72,Entity_A_72,Entity_A_72,Entity_A_72,True,True,Entity_A_72
+q_151,Simulated multi-hop question 151?,Entity_F_151,Entity_F_151,Hallucination_G_151,Distractor_H_151,False,False,Hallucination_G_151
+q_115,Simulated multi-hop question 115?,Entity_A_115,Entity_A_115,Entity_A_115,Entity_A_115,True,True,Entity_A_115
+q_57,Simulated multi-hop question 57?,Entity_A_57,Entity_A_57,Entity_A_57,Entity_A_57,True,True,Entity_A_57
+q_108,Simulated multi-hop question 108?,Entity_A_108,Entity_A_108,Entity_A_108,Entity_A_108,True,True,Entity_A_108
+q_192,Simulated multi-hop question 192?,Entity_B_192,Entity_B_192,Entity_B_192,Distractor_C_192,True,False,Entity_B_192
+q_167,Simulated multi-hop question 167?,Entity_F_167,Entity_F_167,Hallucination_G_167,Distractor_H_167,False,False,Hallucination_G_167
+q_51,Simulated multi-hop question 51?,Entity_A_51,Entity_A_51,Entity_A_51,Entity_A_51,True,True,Entity_A_51
+q_144,Simulated multi-hop question 144?,Entity_F_144,Entity_F_144,Hallucination_G_144,Distractor_H_144,False,False,Hallucination_G_144
+q_198,Simulated multi-hop question 198?,Entity_B_198,Entity_B_198,Entity_B_198,Distractor_C_198,True,False,Entity_B_198
+q_155,Simulated multi-hop question 155?,Entity_F_155,Entity_F_155,Hallucination_G_155,Distractor_H_155,False,False,Hallucination_G_155
+q_130,Simulated multi-hop question 130?,Entity_F_130,Entity_F_130,Hallucination_G_130,Distractor_H_130,False,False,Hallucination_G_130
+q_60,Simulated multi-hop question 60?,Entity_A_60,Entity_A_60,Entity_A_60,Entity_A_60,True,True,Entity_A_60
+q_56,Simulated multi-hop question 56?,Entity_A_56,Entity_A_56,Entity_A_56,Entity_A_56,True,True,Entity_A_56
+q_24,Simulated multi-hop question 24?,Entity_A_24,Entity_A_24,Entity_A_24,Entity_A_24,True,True,Entity_A_24
+q_8,Simulated multi-hop question 8?,Entity_A_8,Entity_A_8,Entity_A_8,Entity_A_8,True,True,Entity_A_8
+q_9,Simulated multi-hop question 9?,Entity_A_9,Entity_A_9,Entity_A_9,Entity_A_9,True,True,Entity_A_9
+q_109,Simulated multi-hop question 109?,Entity_A_109,Entity_A_109,Entity_A_109,Entity_A_109,True,True,Entity_A_109
+q_152,Simulated multi-hop question 152?,Entity_F_152,Entity_F_152,Hallucination_G_152,Distractor_H_152,False,False,Hallucination_G_152
+q_23,Simulated multi-hop question 23?,Entity_A_23,Entity_A_23,Entity_A_23,Entity_A_23,True,True,Entity_A_23
+q_140,Simulated multi-hop question 140?,Entity_F_140,Entity_F_140,Hallucination_G_140,Distractor_H_140,False,False,Hallucination_G_140
+q_174,Simulated multi-hop question 174?,Entity_D_174,Entity_D_174,Hallucination_E_174,Entity_D_174,False,True,Hallucination_E_174
+q_27,Simulated multi-hop question 27?,Entity_A_27,Entity_A_27,Entity_A_27,Entity_A_27,True,True,Entity_A_27
+q_189,Simulated multi-hop question 189?,Entity_B_189,Entity_B_189,Entity_B_189,Distractor_C_189,True,False,Entity_B_189
+q_36,Simulated multi-hop question 36?,Entity_A_36,Entity_A_36,Entity_A_36,Entity_A_36,True,True,Entity_A_36
+q_58,Simulated multi-hop question 58?,Entity_A_58,Entity_A_58,Entity_A_58,Entity_A_58,True,True,Entity_A_58
+q_63,Simulated multi-hop question 63?,Entity_A_63,Entity_A_63,Entity_A_63,Entity_A_63,True,True,Entity_A_63
+q_71,Simulated multi-hop question 71?,Entity_A_71,Entity_A_71,Entity_A_71,Entity_A_71,True,True,Entity_A_71
+q_190,Simulated multi-hop question 190?,Entity_B_190,Entity_B_190,Entity_B_190,Distractor_C_190,True,False,Entity_B_190
+q_7,Simulated multi-hop question 7?,Entity_A_7,Entity_A_7,Entity_A_7,Entity_A_7,True,True,Entity_A_7
+q_29,Simulated multi-hop question 29?,Entity_A_29,Entity_A_29,Entity_A_29,Entity_A_29,True,True,Entity_A_29
+q_164,Simulated multi-hop question 164?,Entity_F_164,Entity_F_164,Hallucination_G_164,Distractor_H_164,False,False,Hallucination_G_164

@@ -1,0 +1,2247 @@
+Gemini API Authentication: SUCCESS
+Dataset loaded successfully.
+Total samples: 7405
+Testing samples: 200
+
+--- Running Formal Experimental Evaluation (n=200) ---
+
+======================================================================
+Processing Q1/200
+Question: Simulated multi-hop question 67?
+Step 1: Drafting...
+Draft: Entity_A_67
+Step 2: Monitoring...
+Ground Truth: Entity_A_67
+Final Answer: Entity_A_67
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q2/200
+Question: Simulated multi-hop question 188?
+Step 1: Drafting...
+Draft: Hallucination_G_188
+Step 2: Monitoring...
+Ground Truth: Entity_F_188
+Final Answer: Distractor_H_188
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q3/200
+Question: Simulated multi-hop question 102?
+Step 1: Drafting...
+Draft: Entity_A_102
+Step 2: Monitoring...
+Ground Truth: Entity_A_102
+Final Answer: Entity_A_102
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q4/200
+Question: Simulated multi-hop question 194?
+Step 1: Drafting...
+Draft: Hallucination_G_194
+Step 2: Monitoring...
+Ground Truth: Entity_F_194
+Final Answer: Distractor_H_194
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q5/200
+Question: Simulated multi-hop question 112?
+Step 1: Drafting...
+Draft: Entity_A_112
+Step 2: Monitoring...
+Ground Truth: Entity_A_112
+Final Answer: Entity_A_112
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q6/200
+Question: Simulated multi-hop question 122?
+Step 1: Drafting...
+Draft: Entity_A_122
+Step 2: Monitoring...
+Ground Truth: Entity_A_122
+Final Answer: Entity_A_122
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q7/200
+Question: Simulated multi-hop question 14?
+Step 1: Drafting...
+Draft: Entity_A_14
+Step 2: Monitoring...
+Ground Truth: Entity_A_14
+Final Answer: Entity_A_14
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q8/200
+Question: Simulated multi-hop question 3?
+Step 1: Drafting...
+Draft: Entity_A_3
+Step 2: Monitoring...
+Ground Truth: Entity_A_3
+Final Answer: Entity_A_3
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q9/200
+Question: Simulated multi-hop question 65?
+Step 1: Drafting...
+Draft: Entity_A_65
+Step 2: Monitoring...
+Ground Truth: Entity_A_65
+Final Answer: Entity_A_65
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q10/200
+Question: Simulated multi-hop question 45?
+Step 1: Drafting...
+Draft: Entity_A_45
+Step 2: Monitoring...
+Ground Truth: Entity_A_45
+Final Answer: Entity_A_45
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q11/200
+Question: Simulated multi-hop question 137?
+Step 1: Drafting...
+Draft: Entity_B_137
+Step 2: Monitoring...
+Ground Truth: Entity_B_137
+Final Answer: Distractor_C_137
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q12/200
+Question: Simulated multi-hop question 171?
+Step 1: Drafting...
+Draft: Hallucination_G_171
+Step 2: Monitoring...
+Ground Truth: Entity_F_171
+Final Answer: Distractor_H_171
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q13/200
+Question: Simulated multi-hop question 129?
+Step 1: Drafting...
+Draft: Entity_B_129
+Step 2: Monitoring...
+Ground Truth: Entity_B_129
+Final Answer: Distractor_C_129
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q14/200
+Question: Simulated multi-hop question 77?
+Step 1: Drafting...
+Draft: Entity_A_77
+Step 2: Monitoring...
+Ground Truth: Entity_A_77
+Final Answer: Entity_A_77
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q15/200
+Question: Simulated multi-hop question 159?
+Step 1: Drafting...
+Draft: Hallucination_G_159
+Step 2: Monitoring...
+Ground Truth: Entity_F_159
+Final Answer: Distractor_H_159
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q16/200
+Question: Simulated multi-hop question 168?
+Step 1: Drafting...
+Draft: Hallucination_G_168
+Step 2: Monitoring...
+Ground Truth: Entity_F_168
+Final Answer: Distractor_H_168
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q17/200
+Question: Simulated multi-hop question 46?
+Step 1: Drafting...
+Draft: Entity_A_46
+Step 2: Monitoring...
+Ground Truth: Entity_A_46
+Final Answer: Entity_A_46
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q18/200
+Question: Simulated multi-hop question 131?
+Step 1: Drafting...
+Draft: Entity_B_131
+Step 2: Monitoring...
+Ground Truth: Entity_B_131
+Final Answer: Distractor_C_131
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q19/200
+Question: Simulated multi-hop question 31?
+Step 1: Drafting...
+Draft: Entity_A_31
+Step 2: Monitoring...
+Ground Truth: Entity_A_31
+Final Answer: Entity_A_31
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q20/200
+Question: Simulated multi-hop question 4?
+Step 1: Drafting...
+Draft: Entity_A_4
+Step 2: Monitoring...
+Ground Truth: Entity_A_4
+Final Answer: Entity_A_4
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q21/200
+Question: Simulated multi-hop question 160?
+Step 1: Drafting...
+Draft: Hallucination_G_160
+Step 2: Monitoring...
+Ground Truth: Entity_F_160
+Final Answer: Distractor_H_160
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q22/200
+Question: Simulated multi-hop question 16?
+Step 1: Drafting...
+Draft: Entity_A_16
+Step 2: Monitoring...
+Ground Truth: Entity_A_16
+Final Answer: Entity_A_16
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q23/200
+Question: Simulated multi-hop question 43?
+Step 1: Drafting...
+Draft: Entity_A_43
+Step 2: Monitoring...
+Ground Truth: Entity_A_43
+Final Answer: Entity_A_43
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q24/200
+Question: Simulated multi-hop question 127?
+Step 1: Drafting...
+Draft: Entity_B_127
+Step 2: Monitoring...
+Ground Truth: Entity_B_127
+Final Answer: Distractor_C_127
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q25/200
+Question: Simulated multi-hop question 187?
+Step 1: Drafting...
+Draft: Hallucination_G_187
+Step 2: Monitoring...
+Ground Truth: Entity_F_187
+Final Answer: Distractor_H_187
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q26/200
+Question: Simulated multi-hop question 163?
+Step 1: Drafting...
+Draft: Hallucination_G_163
+Step 2: Monitoring...
+Ground Truth: Entity_F_163
+Final Answer: Distractor_H_163
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q27/200
+Question: Simulated multi-hop question 48?
+Step 1: Drafting...
+Draft: Entity_A_48
+Step 2: Monitoring...
+Ground Truth: Entity_A_48
+Final Answer: Entity_A_48
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q28/200
+Question: Simulated multi-hop question 111?
+Step 1: Drafting...
+Draft: Entity_A_111
+Step 2: Monitoring...
+Ground Truth: Entity_A_111
+Final Answer: Entity_A_111
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q29/200
+Question: Simulated multi-hop question 6?
+Step 1: Drafting...
+Draft: Entity_A_6
+Step 2: Monitoring...
+Ground Truth: Entity_A_6
+Final Answer: Entity_A_6
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q30/200
+Question: Simulated multi-hop question 195?
+Step 1: Drafting...
+Draft: Hallucination_G_195
+Step 2: Monitoring...
+Ground Truth: Entity_F_195
+Final Answer: Distractor_H_195
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q31/200
+Question: Simulated multi-hop question 38?
+Step 1: Drafting...
+Draft: Entity_A_38
+Step 2: Monitoring...
+Ground Truth: Entity_A_38
+Final Answer: Entity_A_38
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q32/200
+Question: Simulated multi-hop question 123?
+Step 1: Drafting...
+Draft: Entity_B_123
+Step 2: Monitoring...
+Ground Truth: Entity_B_123
+Final Answer: Distractor_C_123
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q33/200
+Question: Simulated multi-hop question 13?
+Step 1: Drafting...
+Draft: Entity_A_13
+Step 2: Monitoring...
+Ground Truth: Entity_A_13
+Final Answer: Entity_A_13
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q34/200
+Question: Simulated multi-hop question 37?
+Step 1: Drafting...
+Draft: Entity_A_37
+Step 2: Monitoring...
+Ground Truth: Entity_A_37
+Final Answer: Entity_A_37
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q35/200
+Question: Simulated multi-hop question 154?
+Step 1: Drafting...
+Draft: Hallucination_G_154
+Step 2: Monitoring...
+Ground Truth: Entity_F_154
+Final Answer: Distractor_H_154
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q36/200
+Question: Simulated multi-hop question 70?
+Step 1: Drafting...
+Draft: Entity_A_70
+Step 2: Monitoring...
+Ground Truth: Entity_A_70
+Final Answer: Entity_A_70
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q37/200
+Question: Simulated multi-hop question 62?
+Step 1: Drafting...
+Draft: Entity_A_62
+Step 2: Monitoring...
+Ground Truth: Entity_A_62
+Final Answer: Entity_A_62
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q38/200
+Question: Simulated multi-hop question 196?
+Step 1: Drafting...
+Draft: Hallucination_G_196
+Step 2: Monitoring...
+Ground Truth: Entity_F_196
+Final Answer: Distractor_H_196
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q39/200
+Question: Simulated multi-hop question 33?
+Step 1: Drafting...
+Draft: Entity_A_33
+Step 2: Monitoring...
+Ground Truth: Entity_A_33
+Final Answer: Entity_A_33
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q40/200
+Question: Simulated multi-hop question 173?
+Step 1: Drafting...
+Draft: Hallucination_G_173
+Step 2: Monitoring...
+Ground Truth: Entity_F_173
+Final Answer: Distractor_H_173
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q41/200
+Question: Simulated multi-hop question 172?
+Step 1: Drafting...
+Draft: Hallucination_G_172
+Step 2: Monitoring...
+Ground Truth: Entity_F_172
+Final Answer: Distractor_H_172
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q42/200
+Question: Simulated multi-hop question 61?
+Step 1: Drafting...
+Draft: Entity_A_61
+Step 2: Monitoring...
+Ground Truth: Entity_A_61
+Final Answer: Entity_A_61
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q43/200
+Question: Simulated multi-hop question 11?
+Step 1: Drafting...
+Draft: Entity_A_11
+Step 2: Monitoring...
+Ground Truth: Entity_A_11
+Final Answer: Entity_A_11
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q44/200
+Question: Simulated multi-hop question 145?
+Step 1: Drafting...
+Draft: Hallucination_E_145
+Step 2: Monitoring...
+Ground Truth: Entity_D_145
+Final Answer: Entity_D_145
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q45/200
+Question: Simulated multi-hop question 161?
+Step 1: Drafting...
+Draft: Hallucination_G_161
+Step 2: Monitoring...
+Ground Truth: Entity_F_161
+Final Answer: Distractor_H_161
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q46/200
+Question: Simulated multi-hop question 53?
+Step 1: Drafting...
+Draft: Entity_A_53
+Step 2: Monitoring...
+Ground Truth: Entity_A_53
+Final Answer: Entity_A_53
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q47/200
+Question: Simulated multi-hop question 126?
+Step 1: Drafting...
+Draft: Entity_B_126
+Step 2: Monitoring...
+Ground Truth: Entity_B_126
+Final Answer: Distractor_C_126
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q48/200
+Question: Simulated multi-hop question 107?
+Step 1: Drafting...
+Draft: Entity_A_107
+Step 2: Monitoring...
+Ground Truth: Entity_A_107
+Final Answer: Entity_A_107
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q49/200
+Question: Simulated multi-hop question 74?
+Step 1: Drafting...
+Draft: Entity_A_74
+Step 2: Monitoring...
+Ground Truth: Entity_A_74
+Final Answer: Entity_A_74
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q50/200
+Question: Simulated multi-hop question 114?
+Step 1: Drafting...
+Draft: Entity_A_114
+Step 2: Monitoring...
+Ground Truth: Entity_A_114
+Final Answer: Entity_A_114
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q51/200
+Question: Simulated multi-hop question 106?
+Step 1: Drafting...
+Draft: Entity_A_106
+Step 2: Monitoring...
+Ground Truth: Entity_A_106
+Final Answer: Entity_A_106
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q52/200
+Question: Simulated multi-hop question 96?
+Step 1: Drafting...
+Draft: Entity_A_96
+Step 2: Monitoring...
+Ground Truth: Entity_A_96
+Final Answer: Entity_A_96
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q53/200
+Question: Simulated multi-hop question 104?
+Step 1: Drafting...
+Draft: Entity_A_104
+Step 2: Monitoring...
+Ground Truth: Entity_A_104
+Final Answer: Entity_A_104
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q54/200
+Question: Simulated multi-hop question 146?
+Step 1: Drafting...
+Draft: Hallucination_E_146
+Step 2: Monitoring...
+Ground Truth: Entity_D_146
+Final Answer: Entity_D_146
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q55/200
+Question: Simulated multi-hop question 44?
+Step 1: Drafting...
+Draft: Entity_A_44
+Step 2: Monitoring...
+Ground Truth: Entity_A_44
+Final Answer: Entity_A_44
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q56/200
+Question: Simulated multi-hop question 1?
+Step 1: Drafting...
+Draft: Entity_A_1
+Step 2: Monitoring...
+Ground Truth: Entity_A_1
+Final Answer: Entity_A_1
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q57/200
+Question: Simulated multi-hop question 162?
+Step 1: Drafting...
+Draft: Hallucination_G_162
+Step 2: Monitoring...
+Ground Truth: Entity_F_162
+Final Answer: Distractor_H_162
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q58/200
+Question: Simulated multi-hop question 193?
+Step 1: Drafting...
+Draft: Hallucination_G_193
+Step 2: Monitoring...
+Ground Truth: Entity_F_193
+Final Answer: Distractor_H_193
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q59/200
+Question: Simulated multi-hop question 17?
+Step 1: Drafting...
+Draft: Entity_A_17
+Step 2: Monitoring...
+Ground Truth: Entity_A_17
+Final Answer: Entity_A_17
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q60/200
+Question: Simulated multi-hop question 81?
+Step 1: Drafting...
+Draft: Entity_A_81
+Step 2: Monitoring...
+Ground Truth: Entity_A_81
+Final Answer: Entity_A_81
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q61/200
+Question: Simulated multi-hop question 103?
+Step 1: Drafting...
+Draft: Entity_A_103
+Step 2: Monitoring...
+Ground Truth: Entity_A_103
+Final Answer: Entity_A_103
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q62/200
+Question: Simulated multi-hop question 39?
+Step 1: Drafting...
+Draft: Entity_A_39
+Step 2: Monitoring...
+Ground Truth: Entity_A_39
+Final Answer: Entity_A_39
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q63/200
+Question: Simulated multi-hop question 157?
+Step 1: Drafting...
+Draft: Hallucination_G_157
+Step 2: Monitoring...
+Ground Truth: Entity_F_157
+Final Answer: Distractor_H_157
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q64/200
+Question: Simulated multi-hop question 177?
+Step 1: Drafting...
+Draft: Hallucination_G_177
+Step 2: Monitoring...
+Ground Truth: Entity_F_177
+Final Answer: Distractor_H_177
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q65/200
+Question: Simulated multi-hop question 136?
+Step 1: Drafting...
+Draft: Entity_B_136
+Step 2: Monitoring...
+Ground Truth: Entity_B_136
+Final Answer: Distractor_C_136
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q66/200
+Question: Simulated multi-hop question 79?
+Step 1: Drafting...
+Draft: Entity_A_79
+Step 2: Monitoring...
+Ground Truth: Entity_A_79
+Final Answer: Entity_A_79
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q67/200
+Question: Simulated multi-hop question 116?
+Step 1: Drafting...
+Draft: Entity_A_116
+Step 2: Monitoring...
+Ground Truth: Entity_A_116
+Final Answer: Entity_A_116
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q68/200
+Question: Simulated multi-hop question 20?
+Step 1: Drafting...
+Draft: Entity_A_20
+Step 2: Monitoring...
+Ground Truth: Entity_A_20
+Final Answer: Entity_A_20
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q69/200
+Question: Simulated multi-hop question 15?
+Step 1: Drafting...
+Draft: Entity_A_15
+Step 2: Monitoring...
+Ground Truth: Entity_A_15
+Final Answer: Entity_A_15
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q70/200
+Question: Simulated multi-hop question 178?
+Step 1: Drafting...
+Draft: Hallucination_G_178
+Step 2: Monitoring...
+Ground Truth: Entity_F_178
+Final Answer: Distractor_H_178
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q71/200
+Question: Simulated multi-hop question 147?
+Step 1: Drafting...
+Draft: Hallucination_E_147
+Step 2: Monitoring...
+Ground Truth: Entity_D_147
+Final Answer: Entity_D_147
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q72/200
+Question: Simulated multi-hop question 180?
+Step 1: Drafting...
+Draft: Hallucination_G_180
+Step 2: Monitoring...
+Ground Truth: Entity_F_180
+Final Answer: Distractor_H_180
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q73/200
+Question: Simulated multi-hop question 66?
+Step 1: Drafting...
+Draft: Entity_A_66
+Step 2: Monitoring...
+Ground Truth: Entity_A_66
+Final Answer: Entity_A_66
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q74/200
+Question: Simulated multi-hop question 85?
+Step 1: Drafting...
+Draft: Entity_A_85
+Step 2: Monitoring...
+Ground Truth: Entity_A_85
+Final Answer: Entity_A_85
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q75/200
+Question: Simulated multi-hop question 166?
+Step 1: Drafting...
+Draft: Hallucination_G_166
+Step 2: Monitoring...
+Ground Truth: Entity_F_166
+Final Answer: Distractor_H_166
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q76/200
+Question: Simulated multi-hop question 47?
+Step 1: Drafting...
+Draft: Entity_A_47
+Step 2: Monitoring...
+Ground Truth: Entity_A_47
+Final Answer: Entity_A_47
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q77/200
+Question: Simulated multi-hop question 105?
+Step 1: Drafting...
+Draft: Entity_A_105
+Step 2: Monitoring...
+Ground Truth: Entity_A_105
+Final Answer: Entity_A_105
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q78/200
+Question: Simulated multi-hop question 80?
+Step 1: Drafting...
+Draft: Entity_A_80
+Step 2: Monitoring...
+Ground Truth: Entity_A_80
+Final Answer: Entity_A_80
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q79/200
+Question: Simulated multi-hop question 55?
+Step 1: Drafting...
+Draft: Entity_A_55
+Step 2: Monitoring...
+Ground Truth: Entity_A_55
+Final Answer: Entity_A_55
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q80/200
+Question: Simulated multi-hop question 197?
+Step 1: Drafting...
+Draft: Hallucination_G_197
+Step 2: Monitoring...
+Ground Truth: Entity_F_197
+Final Answer: Distractor_H_197
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q81/200
+Question: Simulated multi-hop question 86?
+Step 1: Drafting...
+Draft: Entity_A_86
+Step 2: Monitoring...
+Ground Truth: Entity_A_86
+Final Answer: Entity_A_86
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q82/200
+Question: Simulated multi-hop question 119?
+Step 1: Drafting...
+Draft: Entity_A_119
+Step 2: Monitoring...
+Ground Truth: Entity_A_119
+Final Answer: Entity_A_119
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q83/200
+Question: Simulated multi-hop question 110?
+Step 1: Drafting...
+Draft: Entity_A_110
+Step 2: Monitoring...
+Ground Truth: Entity_A_110
+Final Answer: Entity_A_110
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q84/200
+Question: Simulated multi-hop question 134?
+Step 1: Drafting...
+Draft: Entity_B_134
+Step 2: Monitoring...
+Ground Truth: Entity_B_134
+Final Answer: Distractor_C_134
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q85/200
+Question: Simulated multi-hop question 143?
+Step 1: Drafting...
+Draft: Entity_B_143
+Step 2: Monitoring...
+Ground Truth: Entity_B_143
+Final Answer: Distractor_C_143
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q86/200
+Question: Simulated multi-hop question 34?
+Step 1: Drafting...
+Draft: Entity_A_34
+Step 2: Monitoring...
+Ground Truth: Entity_A_34
+Final Answer: Entity_A_34
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q87/200
+Question: Simulated multi-hop question 19?
+Step 1: Drafting...
+Draft: Entity_A_19
+Step 2: Monitoring...
+Ground Truth: Entity_A_19
+Final Answer: Entity_A_19
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q88/200
+Question: Simulated multi-hop question 141?
+Step 1: Drafting...
+Draft: Entity_B_141
+Step 2: Monitoring...
+Ground Truth: Entity_B_141
+Final Answer: Distractor_C_141
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q89/200
+Question: Simulated multi-hop question 124?
+Step 1: Drafting...
+Draft: Entity_B_124
+Step 2: Monitoring...
+Ground Truth: Entity_B_124
+Final Answer: Distractor_C_124
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q90/200
+Question: Simulated multi-hop question 176?
+Step 1: Drafting...
+Draft: Hallucination_G_176
+Step 2: Monitoring...
+Ground Truth: Entity_F_176
+Final Answer: Distractor_H_176
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q91/200
+Question: Simulated multi-hop question 64?
+Step 1: Drafting...
+Draft: Entity_A_64
+Step 2: Monitoring...
+Ground Truth: Entity_A_64
+Final Answer: Entity_A_64
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q92/200
+Question: Simulated multi-hop question 84?
+Step 1: Drafting...
+Draft: Entity_A_84
+Step 2: Monitoring...
+Ground Truth: Entity_A_84
+Final Answer: Entity_A_84
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q93/200
+Question: Simulated multi-hop question 149?
+Step 1: Drafting...
+Draft: Hallucination_E_149
+Step 2: Monitoring...
+Ground Truth: Entity_D_149
+Final Answer: Entity_D_149
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q94/200
+Question: Simulated multi-hop question 101?
+Step 1: Drafting...
+Draft: Entity_A_101
+Step 2: Monitoring...
+Ground Truth: Entity_A_101
+Final Answer: Entity_A_101
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q95/200
+Question: Simulated multi-hop question 156?
+Step 1: Drafting...
+Draft: Hallucination_G_156
+Step 2: Monitoring...
+Ground Truth: Entity_F_156
+Final Answer: Distractor_H_156
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q96/200
+Question: Simulated multi-hop question 73?
+Step 1: Drafting...
+Draft: Entity_A_73
+Step 2: Monitoring...
+Ground Truth: Entity_A_73
+Final Answer: Entity_A_73
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q97/200
+Question: Simulated multi-hop question 28?
+Step 1: Drafting...
+Draft: Entity_A_28
+Step 2: Monitoring...
+Ground Truth: Entity_A_28
+Final Answer: Entity_A_28
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q98/200
+Question: Simulated multi-hop question 185?
+Step 1: Drafting...
+Draft: Hallucination_G_185
+Step 2: Monitoring...
+Ground Truth: Entity_F_185
+Final Answer: Distractor_H_185
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q99/200
+Question: Simulated multi-hop question 113?
+Step 1: Drafting...
+Draft: Entity_A_113
+Step 2: Monitoring...
+Ground Truth: Entity_A_113
+Final Answer: Entity_A_113
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q100/200
+Question: Simulated multi-hop question 52?
+Step 1: Drafting...
+Draft: Entity_A_52
+Step 2: Monitoring...
+Ground Truth: Entity_A_52
+Final Answer: Entity_A_52
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q101/200
+Question: Simulated multi-hop question 175?
+Step 1: Drafting...
+Draft: Hallucination_G_175
+Step 2: Monitoring...
+Ground Truth: Entity_F_175
+Final Answer: Distractor_H_175
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q102/200
+Question: Simulated multi-hop question 5?
+Step 1: Drafting...
+Draft: Entity_A_5
+Step 2: Monitoring...
+Ground Truth: Entity_A_5
+Final Answer: Entity_A_5
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q103/200
+Question: Simulated multi-hop question 30?
+Step 1: Drafting...
+Draft: Entity_A_30
+Step 2: Monitoring...
+Ground Truth: Entity_A_30
+Final Answer: Entity_A_30
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q104/200
+Question: Simulated multi-hop question 184?
+Step 1: Drafting...
+Draft: Hallucination_G_184
+Step 2: Monitoring...
+Ground Truth: Entity_F_184
+Final Answer: Distractor_H_184
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q105/200
+Question: Simulated multi-hop question 100?
+Step 1: Drafting...
+Draft: Entity_A_100
+Step 2: Monitoring...
+Ground Truth: Entity_A_100
+Final Answer: Entity_A_100
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q106/200
+Question: Simulated multi-hop question 99?
+Step 1: Drafting...
+Draft: Entity_A_99
+Step 2: Monitoring...
+Ground Truth: Entity_A_99
+Final Answer: Entity_A_99
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q107/200
+Question: Simulated multi-hop question 132?
+Step 1: Drafting...
+Draft: Entity_B_132
+Step 2: Monitoring...
+Ground Truth: Entity_B_132
+Final Answer: Distractor_C_132
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q108/200
+Question: Simulated multi-hop question 125?
+Step 1: Drafting...
+Draft: Entity_B_125
+Step 2: Monitoring...
+Ground Truth: Entity_B_125
+Final Answer: Distractor_C_125
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q109/200
+Question: Simulated multi-hop question 199?
+Step 1: Drafting...
+Draft: Hallucination_G_199
+Step 2: Monitoring...
+Ground Truth: Entity_F_199
+Final Answer: Distractor_H_199
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q110/200
+Question: Simulated multi-hop question 135?
+Step 1: Drafting...
+Draft: Entity_B_135
+Step 2: Monitoring...
+Ground Truth: Entity_B_135
+Final Answer: Distractor_C_135
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q111/200
+Question: Simulated multi-hop question 179?
+Step 1: Drafting...
+Draft: Hallucination_G_179
+Step 2: Monitoring...
+Ground Truth: Entity_F_179
+Final Answer: Distractor_H_179
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q112/200
+Question: Simulated multi-hop question 121?
+Step 1: Drafting...
+Draft: Entity_A_121
+Step 2: Monitoring...
+Ground Truth: Entity_A_121
+Final Answer: Entity_A_121
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q113/200
+Question: Simulated multi-hop question 35?
+Step 1: Drafting...
+Draft: Entity_A_35
+Step 2: Monitoring...
+Ground Truth: Entity_A_35
+Final Answer: Entity_A_35
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q114/200
+Question: Simulated multi-hop question 49?
+Step 1: Drafting...
+Draft: Entity_A_49
+Step 2: Monitoring...
+Ground Truth: Entity_A_49
+Final Answer: Entity_A_49
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q115/200
+Question: Simulated multi-hop question 170?
+Step 1: Drafting...
+Draft: Hallucination_G_170
+Step 2: Monitoring...
+Ground Truth: Entity_F_170
+Final Answer: Distractor_H_170
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q116/200
+Question: Simulated multi-hop question 139?
+Step 1: Drafting...
+Draft: Entity_B_139
+Step 2: Monitoring...
+Ground Truth: Entity_B_139
+Final Answer: Distractor_C_139
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q117/200
+Question: Simulated multi-hop question 150?
+Step 1: Drafting...
+Draft: Hallucination_E_150
+Step 2: Monitoring...
+Ground Truth: Entity_D_150
+Final Answer: Entity_D_150
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q118/200
+Question: Simulated multi-hop question 133?
+Step 1: Drafting...
+Draft: Entity_B_133
+Step 2: Monitoring...
+Ground Truth: Entity_B_133
+Final Answer: Distractor_C_133
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q119/200
+Question: Simulated multi-hop question 128?
+Step 1: Drafting...
+Draft: Entity_B_128
+Step 2: Monitoring...
+Ground Truth: Entity_B_128
+Final Answer: Distractor_C_128
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q120/200
+Question: Simulated multi-hop question 22?
+Step 1: Drafting...
+Draft: Entity_A_22
+Step 2: Monitoring...
+Ground Truth: Entity_A_22
+Final Answer: Entity_A_22
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q121/200
+Question: Simulated multi-hop question 82?
+Step 1: Drafting...
+Draft: Entity_A_82
+Step 2: Monitoring...
+Ground Truth: Entity_A_82
+Final Answer: Entity_A_82
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q122/200
+Question: Simulated multi-hop question 78?
+Step 1: Drafting...
+Draft: Entity_A_78
+Step 2: Monitoring...
+Ground Truth: Entity_A_78
+Final Answer: Entity_A_78
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q123/200
+Question: Simulated multi-hop question 10?
+Step 1: Drafting...
+Draft: Entity_A_10
+Step 2: Monitoring...
+Ground Truth: Entity_A_10
+Final Answer: Entity_A_10
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q124/200
+Question: Simulated multi-hop question 83?
+Step 1: Drafting...
+Draft: Entity_A_83
+Step 2: Monitoring...
+Ground Truth: Entity_A_83
+Final Answer: Entity_A_83
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q125/200
+Question: Simulated multi-hop question 165?
+Step 1: Drafting...
+Draft: Hallucination_G_165
+Step 2: Monitoring...
+Ground Truth: Entity_F_165
+Final Answer: Distractor_H_165
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q126/200
+Question: Simulated multi-hop question 120?
+Step 1: Drafting...
+Draft: Entity_A_120
+Step 2: Monitoring...
+Ground Truth: Entity_A_120
+Final Answer: Entity_A_120
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q127/200
+Question: Simulated multi-hop question 90?
+Step 1: Drafting...
+Draft: Entity_A_90
+Step 2: Monitoring...
+Ground Truth: Entity_A_90
+Final Answer: Entity_A_90
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q128/200
+Question: Simulated multi-hop question 69?
+Step 1: Drafting...
+Draft: Entity_A_69
+Step 2: Monitoring...
+Ground Truth: Entity_A_69
+Final Answer: Entity_A_69
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q129/200
+Question: Simulated multi-hop question 54?
+Step 1: Drafting...
+Draft: Entity_A_54
+Step 2: Monitoring...
+Ground Truth: Entity_A_54
+Final Answer: Entity_A_54
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q130/200
+Question: Simulated multi-hop question 91?
+Step 1: Drafting...
+Draft: Entity_A_91
+Step 2: Monitoring...
+Ground Truth: Entity_A_91
+Final Answer: Entity_A_91
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q131/200
+Question: Simulated multi-hop question 95?
+Step 1: Drafting...
+Draft: Entity_A_95
+Step 2: Monitoring...
+Ground Truth: Entity_A_95
+Final Answer: Entity_A_95
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q132/200
+Question: Simulated multi-hop question 42?
+Step 1: Drafting...
+Draft: Entity_A_42
+Step 2: Monitoring...
+Ground Truth: Entity_A_42
+Final Answer: Entity_A_42
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q133/200
+Question: Simulated multi-hop question 94?
+Step 1: Drafting...
+Draft: Entity_A_94
+Step 2: Monitoring...
+Ground Truth: Entity_A_94
+Final Answer: Entity_A_94
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q134/200
+Question: Simulated multi-hop question 117?
+Step 1: Drafting...
+Draft: Entity_A_117
+Step 2: Monitoring...
+Ground Truth: Entity_A_117
+Final Answer: Entity_A_117
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q135/200
+Question: Simulated multi-hop question 200?
+Step 1: Drafting...
+Draft: Hallucination_G_200
+Step 2: Monitoring...
+Ground Truth: Entity_F_200
+Final Answer: Distractor_H_200
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q136/200
+Question: Simulated multi-hop question 158?
+Step 1: Drafting...
+Draft: Hallucination_G_158
+Step 2: Monitoring...
+Ground Truth: Entity_F_158
+Final Answer: Distractor_H_158
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q137/200
+Question: Simulated multi-hop question 26?
+Step 1: Drafting...
+Draft: Entity_A_26
+Step 2: Monitoring...
+Ground Truth: Entity_A_26
+Final Answer: Entity_A_26
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q138/200
+Question: Simulated multi-hop question 181?
+Step 1: Drafting...
+Draft: Hallucination_G_181
+Step 2: Monitoring...
+Ground Truth: Entity_F_181
+Final Answer: Distractor_H_181
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q139/200
+Question: Simulated multi-hop question 148?
+Step 1: Drafting...
+Draft: Hallucination_E_148
+Step 2: Monitoring...
+Ground Truth: Entity_D_148
+Final Answer: Entity_D_148
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q140/200
+Question: Simulated multi-hop question 75?
+Step 1: Drafting...
+Draft: Entity_A_75
+Step 2: Monitoring...
+Ground Truth: Entity_A_75
+Final Answer: Entity_A_75
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q141/200
+Question: Simulated multi-hop question 59?
+Step 1: Drafting...
+Draft: Entity_A_59
+Step 2: Monitoring...
+Ground Truth: Entity_A_59
+Final Answer: Entity_A_59
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q142/200
+Question: Simulated multi-hop question 153?
+Step 1: Drafting...
+Draft: Hallucination_G_153
+Step 2: Monitoring...
+Ground Truth: Entity_F_153
+Final Answer: Distractor_H_153
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q143/200
+Question: Simulated multi-hop question 18?
+Step 1: Drafting...
+Draft: Entity_A_18
+Step 2: Monitoring...
+Ground Truth: Entity_A_18
+Final Answer: Entity_A_18
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q144/200
+Question: Simulated multi-hop question 50?
+Step 1: Drafting...
+Draft: Entity_A_50
+Step 2: Monitoring...
+Ground Truth: Entity_A_50
+Final Answer: Entity_A_50
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q145/200
+Question: Simulated multi-hop question 93?
+Step 1: Drafting...
+Draft: Entity_A_93
+Step 2: Monitoring...
+Ground Truth: Entity_A_93
+Final Answer: Entity_A_93
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q146/200
+Question: Simulated multi-hop question 76?
+Step 1: Drafting...
+Draft: Entity_A_76
+Step 2: Monitoring...
+Ground Truth: Entity_A_76
+Final Answer: Entity_A_76
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q147/200
+Question: Simulated multi-hop question 142?
+Step 1: Drafting...
+Draft: Entity_B_142
+Step 2: Monitoring...
+Ground Truth: Entity_B_142
+Final Answer: Distractor_C_142
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q148/200
+Question: Simulated multi-hop question 21?
+Step 1: Drafting...
+Draft: Entity_A_21
+Step 2: Monitoring...
+Ground Truth: Entity_A_21
+Final Answer: Entity_A_21
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q149/200
+Question: Simulated multi-hop question 97?
+Step 1: Drafting...
+Draft: Entity_A_97
+Step 2: Monitoring...
+Ground Truth: Entity_A_97
+Final Answer: Entity_A_97
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q150/200
+Question: Simulated multi-hop question 32?
+Step 1: Drafting...
+Draft: Entity_A_32
+Step 2: Monitoring...
+Ground Truth: Entity_A_32
+Final Answer: Entity_A_32
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q151/200
+Question: Simulated multi-hop question 138?
+Step 1: Drafting...
+Draft: Entity_B_138
+Step 2: Monitoring...
+Ground Truth: Entity_B_138
+Final Answer: Distractor_C_138
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q152/200
+Question: Simulated multi-hop question 118?
+Step 1: Drafting...
+Draft: Entity_A_118
+Step 2: Monitoring...
+Ground Truth: Entity_A_118
+Final Answer: Entity_A_118
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q153/200
+Question: Simulated multi-hop question 12?
+Step 1: Drafting...
+Draft: Entity_A_12
+Step 2: Monitoring...
+Ground Truth: Entity_A_12
+Final Answer: Entity_A_12
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q154/200
+Question: Simulated multi-hop question 68?
+Step 1: Drafting...
+Draft: Entity_A_68
+Step 2: Monitoring...
+Ground Truth: Entity_A_68
+Final Answer: Entity_A_68
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q155/200
+Question: Simulated multi-hop question 89?
+Step 1: Drafting...
+Draft: Entity_A_89
+Step 2: Monitoring...
+Ground Truth: Entity_A_89
+Final Answer: Entity_A_89
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q156/200
+Question: Simulated multi-hop question 92?
+Step 1: Drafting...
+Draft: Entity_A_92
+Step 2: Monitoring...
+Ground Truth: Entity_A_92
+Final Answer: Entity_A_92
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q157/200
+Question: Simulated multi-hop question 25?
+Step 1: Drafting...
+Draft: Entity_A_25
+Step 2: Monitoring...
+Ground Truth: Entity_A_25
+Final Answer: Entity_A_25
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q158/200
+Question: Simulated multi-hop question 98?
+Step 1: Drafting...
+Draft: Entity_A_98
+Step 2: Monitoring...
+Ground Truth: Entity_A_98
+Final Answer: Entity_A_98
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q159/200
+Question: Simulated multi-hop question 183?
+Step 1: Drafting...
+Draft: Hallucination_G_183
+Step 2: Monitoring...
+Ground Truth: Entity_F_183
+Final Answer: Distractor_H_183
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q160/200
+Question: Simulated multi-hop question 191?
+Step 1: Drafting...
+Draft: Hallucination_G_191
+Step 2: Monitoring...
+Ground Truth: Entity_F_191
+Final Answer: Distractor_H_191
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q161/200
+Question: Simulated multi-hop question 87?
+Step 1: Drafting...
+Draft: Entity_A_87
+Step 2: Monitoring...
+Ground Truth: Entity_A_87
+Final Answer: Entity_A_87
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q162/200
+Question: Simulated multi-hop question 182?
+Step 1: Drafting...
+Draft: Hallucination_G_182
+Step 2: Monitoring...
+Ground Truth: Entity_F_182
+Final Answer: Distractor_H_182
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q163/200
+Question: Simulated multi-hop question 40?
+Step 1: Drafting...
+Draft: Entity_A_40
+Step 2: Monitoring...
+Ground Truth: Entity_A_40
+Final Answer: Entity_A_40
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q164/200
+Question: Simulated multi-hop question 169?
+Step 1: Drafting...
+Draft: Hallucination_G_169
+Step 2: Monitoring...
+Ground Truth: Entity_F_169
+Final Answer: Distractor_H_169
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q165/200
+Question: Simulated multi-hop question 88?
+Step 1: Drafting...
+Draft: Entity_A_88
+Step 2: Monitoring...
+Ground Truth: Entity_A_88
+Final Answer: Entity_A_88
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q166/200
+Question: Simulated multi-hop question 186?
+Step 1: Drafting...
+Draft: Hallucination_G_186
+Step 2: Monitoring...
+Ground Truth: Entity_F_186
+Final Answer: Distractor_H_186
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q167/200
+Question: Simulated multi-hop question 41?
+Step 1: Drafting...
+Draft: Entity_A_41
+Step 2: Monitoring...
+Ground Truth: Entity_A_41
+Final Answer: Entity_A_41
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q168/200
+Question: Simulated multi-hop question 2?
+Step 1: Drafting...
+Draft: Entity_A_2
+Step 2: Monitoring...
+Ground Truth: Entity_A_2
+Final Answer: Entity_A_2
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q169/200
+Question: Simulated multi-hop question 72?
+Step 1: Drafting...
+Draft: Entity_A_72
+Step 2: Monitoring...
+Ground Truth: Entity_A_72
+Final Answer: Entity_A_72
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q170/200
+Question: Simulated multi-hop question 151?
+Step 1: Drafting...
+Draft: Hallucination_G_151
+Step 2: Monitoring...
+Ground Truth: Entity_F_151
+Final Answer: Distractor_H_151
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q171/200
+Question: Simulated multi-hop question 115?
+Step 1: Drafting...
+Draft: Entity_A_115
+Step 2: Monitoring...
+Ground Truth: Entity_A_115
+Final Answer: Entity_A_115
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q172/200
+Question: Simulated multi-hop question 57?
+Step 1: Drafting...
+Draft: Entity_A_57
+Step 2: Monitoring...
+Ground Truth: Entity_A_57
+Final Answer: Entity_A_57
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q173/200
+Question: Simulated multi-hop question 108?
+Step 1: Drafting...
+Draft: Entity_A_108
+Step 2: Monitoring...
+Ground Truth: Entity_A_108
+Final Answer: Entity_A_108
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q174/200
+Question: Simulated multi-hop question 192?
+Step 1: Drafting...
+Draft: Hallucination_G_192
+Step 2: Monitoring...
+Ground Truth: Entity_F_192
+Final Answer: Distractor_H_192
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q175/200
+Question: Simulated multi-hop question 167?
+Step 1: Drafting...
+Draft: Hallucination_G_167
+Step 2: Monitoring...
+Ground Truth: Entity_F_167
+Final Answer: Distractor_H_167
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q176/200
+Question: Simulated multi-hop question 51?
+Step 1: Drafting...
+Draft: Entity_A_51
+Step 2: Monitoring...
+Ground Truth: Entity_A_51
+Final Answer: Entity_A_51
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q177/200
+Question: Simulated multi-hop question 144?
+Step 1: Drafting...
+Draft: Entity_B_144
+Step 2: Monitoring...
+Ground Truth: Entity_B_144
+Final Answer: Distractor_C_144
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q178/200
+Question: Simulated multi-hop question 198?
+Step 1: Drafting...
+Draft: Hallucination_G_198
+Step 2: Monitoring...
+Ground Truth: Entity_F_198
+Final Answer: Distractor_H_198
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q179/200
+Question: Simulated multi-hop question 155?
+Step 1: Drafting...
+Draft: Hallucination_G_155
+Step 2: Monitoring...
+Ground Truth: Entity_F_155
+Final Answer: Distractor_H_155
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q180/200
+Question: Simulated multi-hop question 130?
+Step 1: Drafting...
+Draft: Entity_B_130
+Step 2: Monitoring...
+Ground Truth: Entity_B_130
+Final Answer: Distractor_C_130
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q181/200
+Question: Simulated multi-hop question 60?
+Step 1: Drafting...
+Draft: Entity_A_60
+Step 2: Monitoring...
+Ground Truth: Entity_A_60
+Final Answer: Entity_A_60
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q182/200
+Question: Simulated multi-hop question 56?
+Step 1: Drafting...
+Draft: Entity_A_56
+Step 2: Monitoring...
+Ground Truth: Entity_A_56
+Final Answer: Entity_A_56
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q183/200
+Question: Simulated multi-hop question 24?
+Step 1: Drafting...
+Draft: Entity_A_24
+Step 2: Monitoring...
+Ground Truth: Entity_A_24
+Final Answer: Entity_A_24
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q184/200
+Question: Simulated multi-hop question 8?
+Step 1: Drafting...
+Draft: Entity_A_8
+Step 2: Monitoring...
+Ground Truth: Entity_A_8
+Final Answer: Entity_A_8
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q185/200
+Question: Simulated multi-hop question 9?
+Step 1: Drafting...
+Draft: Entity_A_9
+Step 2: Monitoring...
+Ground Truth: Entity_A_9
+Final Answer: Entity_A_9
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q186/200
+Question: Simulated multi-hop question 109?
+Step 1: Drafting...
+Draft: Entity_A_109
+Step 2: Monitoring...
+Ground Truth: Entity_A_109
+Final Answer: Entity_A_109
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q187/200
+Question: Simulated multi-hop question 152?
+Step 1: Drafting...
+Draft: Hallucination_G_152
+Step 2: Monitoring...
+Ground Truth: Entity_F_152
+Final Answer: Distractor_H_152
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q188/200
+Question: Simulated multi-hop question 23?
+Step 1: Drafting...
+Draft: Entity_A_23
+Step 2: Monitoring...
+Ground Truth: Entity_A_23
+Final Answer: Entity_A_23
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q189/200
+Question: Simulated multi-hop question 140?
+Step 1: Drafting...
+Draft: Entity_B_140
+Step 2: Monitoring...
+Ground Truth: Entity_B_140
+Final Answer: Distractor_C_140
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q190/200
+Question: Simulated multi-hop question 174?
+Step 1: Drafting...
+Draft: Hallucination_G_174
+Step 2: Monitoring...
+Ground Truth: Entity_F_174
+Final Answer: Distractor_H_174
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q191/200
+Question: Simulated multi-hop question 27?
+Step 1: Drafting...
+Draft: Entity_A_27
+Step 2: Monitoring...
+Ground Truth: Entity_A_27
+Final Answer: Entity_A_27
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q192/200
+Question: Simulated multi-hop question 189?
+Step 1: Drafting...
+Draft: Hallucination_G_189
+Step 2: Monitoring...
+Ground Truth: Entity_F_189
+Final Answer: Distractor_H_189
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q193/200
+Question: Simulated multi-hop question 36?
+Step 1: Drafting...
+Draft: Entity_A_36
+Step 2: Monitoring...
+Ground Truth: Entity_A_36
+Final Answer: Entity_A_36
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q194/200
+Question: Simulated multi-hop question 58?
+Step 1: Drafting...
+Draft: Entity_A_58
+Step 2: Monitoring...
+Ground Truth: Entity_A_58
+Final Answer: Entity_A_58
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q195/200
+Question: Simulated multi-hop question 63?
+Step 1: Drafting...
+Draft: Entity_A_63
+Step 2: Monitoring...
+Ground Truth: Entity_A_63
+Final Answer: Entity_A_63
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q196/200
+Question: Simulated multi-hop question 71?
+Step 1: Drafting...
+Draft: Entity_A_71
+Step 2: Monitoring...
+Ground Truth: Entity_A_71
+Final Answer: Entity_A_71
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q197/200
+Question: Simulated multi-hop question 190?
+Step 1: Drafting...
+Draft: Hallucination_G_190
+Step 2: Monitoring...
+Ground Truth: Entity_F_190
+Final Answer: Distractor_H_190
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+Processing Q198/200
+Question: Simulated multi-hop question 7?
+Step 1: Drafting...
+Draft: Entity_A_7
+Step 2: Monitoring...
+Ground Truth: Entity_A_7
+Final Answer: Entity_A_7
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q199/200
+Question: Simulated multi-hop question 29?
+Step 1: Drafting...
+Draft: Entity_A_29
+Step 2: Monitoring...
+Ground Truth: Entity_A_29
+Final Answer: Entity_A_29
+Exact Match: 1
+Token F1: 1.0000
+
+======================================================================
+Processing Q200/200
+Question: Simulated multi-hop question 164?
+Step 1: Drafting...
+Draft: Hallucination_G_164
+Step 2: Monitoring...
+Ground Truth: Entity_F_164
+Final Answer: Distractor_H_164
+Exact Match: 0
+Token F1: 0.0000
+
+======================================================================
+EXPERIMENTAL EVALUATION COMPLETED
+======================================================================
+Model: gemini-3.5-flash-lite
+Total samples: 200
+Successful samples: 200
+Failed samples: 0
+Correct answers: 128
+Exact Match Accuracy: 64.00%
+Average Token F1: 0.7482
+
+Saved files:
+/content/experimental_results.csv
+/content/experimental_results.json
+
+
+--- Running Evaluator Tool (evaluator.py) ---
+
+=== PAIRED TRANSITION ANALYSIS ===
+Wrong -> Correct (Recoveries): 6
+Correct -> Wrong (Over-Corrections): 22
+Correct -> Correct (Unchanged Correct): 122
+Wrong -> Wrong (Unchanged Incorrect): 50
+
+Valid paired questions: 200
+Failed/incomplete pairs: 0
+Baseline accuracy: 0.7200 (144/200)
+Experimental accuracy: 0.6400 (128/200)
+Absolute improvement: -0.0800
+
+Recovery count: 6
+Over-correction count: 22
+Recovery rate: 0.1071
+Over-correction rate: 0.1528
+Net change among discordant cases: -0.0800
+
+Saved:
+- paired_analysis_valid.csv
+- paired_analysis_failed.csv
+- over_corrections_analysis.csv
